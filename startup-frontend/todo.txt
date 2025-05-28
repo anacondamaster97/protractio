@@ -1,0 +1,5 @@
+(A) A Set up boilerplates {cm:2025-01-15}
+(A) Plan out structure
+(B) Schema plan
+(B) Dev plan
+(B) Build out code 

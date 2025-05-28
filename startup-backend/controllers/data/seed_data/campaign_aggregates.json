@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Senior Citizens",
+    "budget": 188885.88,
+    "revenue": 249960.0
+  },
+  {
+    "category": "Students",
+    "budget": 106988.13,
+    "revenue": 184795.15
+  },
+  {
+    "category": "Tech Enthusiasts",
+    "budget": 163428.85,
+    "revenue": 241812.1
+  },
+  {
+    "category": "Young Professionals",
+    "budget": 134953.91999999998,
+    "revenue": 147651.28
+  },
+  {
+    "category": "Parents",
+    "budget": 108775.73000000001,
+    "revenue": 112824.23
+  },
+  {
+    "category": "Small Business Owners",
+    "budget": 173195.16999999998,
+    "revenue": 195510.51
+  }
+]

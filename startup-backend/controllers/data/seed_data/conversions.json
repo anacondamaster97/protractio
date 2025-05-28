@@ -1,0 +1,1402 @@
+[
+  {
+    "customer_id": 12,
+    "campaign_id": 16,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-03-13",
+    "revenue": "2951.36"
+  },
+  {
+    "customer_id": 66,
+    "campaign_id": 8,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-04-09",
+    "revenue": "4941.94"
+  },
+  {
+    "customer_id": 76,
+    "campaign_id": 6,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-04-12",
+    "revenue": "1722.95"
+  },
+  {
+    "customer_id": 14,
+    "campaign_id": 17,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-06-01",
+    "revenue": "3649.45"
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 18,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2025-01-12",
+    "revenue": "306.69"
+  },
+  {
+    "customer_id": 46,
+    "campaign_id": 17,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-07-10",
+    "revenue": "4210.63"
+  },
+  {
+    "customer_id": 6,
+    "campaign_id": 10,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-11-12",
+    "revenue": "4628.45"
+  },
+  {
+    "customer_id": 17,
+    "campaign_id": 5,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-03-09",
+    "revenue": "3507.06"
+  },
+  {
+    "customer_id": 85,
+    "campaign_id": 14,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-11-18",
+    "revenue": "3585.16"
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 11,
+    "conversion_type": "Consultation",
+    "conversion_date": "2025-01-02",
+    "revenue": "1044.56"
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 15,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-10-13",
+    "revenue": "227.27"
+  },
+  {
+    "customer_id": 9,
+    "campaign_id": 15,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-05-03",
+    "revenue": "3874.67"
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 18,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-10-27",
+    "revenue": "3254.48"
+  },
+  {
+    "customer_id": 2,
+    "campaign_id": 13,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-10-08",
+    "revenue": "110.45"
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 16,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-03-18",
+    "revenue": "544.02"
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 8,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-05-04",
+    "revenue": "790.62"
+  },
+  {
+    "customer_id": 81,
+    "campaign_id": 3,
+    "conversion_type": "Consultation",
+    "conversion_date": "2025-01-03",
+    "revenue": "834.80"
+  },
+  {
+    "customer_id": 77,
+    "campaign_id": 8,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-02-18",
+    "revenue": "2147.30"
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 15,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-11-05",
+    "revenue": "4344.16"
+  },
+  {
+    "customer_id": 79,
+    "campaign_id": 14,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-02-04",
+    "revenue": "991.49"
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 17,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-05-13",
+    "revenue": "2914.16"
+  },
+  {
+    "customer_id": 7,
+    "campaign_id": 6,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-09-19",
+    "revenue": "893.75"
+  },
+  {
+    "customer_id": 31,
+    "campaign_id": 8,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-10",
+    "revenue": "3916.97"
+  },
+  {
+    "customer_id": 30,
+    "campaign_id": 17,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-06-15",
+    "revenue": "713.04"
+  },
+  {
+    "customer_id": 50,
+    "campaign_id": 4,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-03-04",
+    "revenue": "3196.39"
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 19,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-09-11",
+    "revenue": "1071.53"
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 3,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-12-27",
+    "revenue": "1137.26"
+  },
+  {
+    "customer_id": 81,
+    "campaign_id": 2,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-12-21",
+    "revenue": "3148.96"
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 19,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-11-20",
+    "revenue": "4789.84"
+  },
+  {
+    "customer_id": 29,
+    "campaign_id": 15,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-01-15",
+    "revenue": "3907.11"
+  },
+  {
+    "customer_id": 21,
+    "campaign_id": 19,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-10-30",
+    "revenue": "906.41"
+  },
+  {
+    "customer_id": 17,
+    "campaign_id": 5,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-07-05",
+    "revenue": "1264.75"
+  },
+  {
+    "customer_id": 9,
+    "campaign_id": 8,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-05-08",
+    "revenue": "467.05"
+  },
+  {
+    "customer_id": 32,
+    "campaign_id": 10,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-05-01",
+    "revenue": "2710.53"
+  },
+  {
+    "customer_id": 2,
+    "campaign_id": 9,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-02-08",
+    "revenue": "2808.92"
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 10,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-01-30",
+    "revenue": "4171.48"
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 13,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-10-23",
+    "revenue": "179.64"
+  },
+  {
+    "customer_id": 96,
+    "campaign_id": 1,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-10-28",
+    "revenue": "1338.21"
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 5,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-06-28",
+    "revenue": "2722.78"
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 4,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-10-03",
+    "revenue": "2758.13"
+  },
+  {
+    "customer_id": 96,
+    "campaign_id": 15,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-11-10",
+    "revenue": "1127.93"
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 9,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-03-10",
+    "revenue": "2616.18"
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 13,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-09-19",
+    "revenue": "4780.29"
+  },
+  {
+    "customer_id": 31,
+    "campaign_id": 6,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-05-08",
+    "revenue": "4515.64"
+  },
+  {
+    "customer_id": 32,
+    "campaign_id": 16,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-03-15",
+    "revenue": "672.30"
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 4,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-11-28",
+    "revenue": "1088.44"
+  },
+  {
+    "customer_id": 44,
+    "campaign_id": 1,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-09-05",
+    "revenue": "2924.42"
+  },
+  {
+    "customer_id": 25,
+    "campaign_id": 18,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-02-01",
+    "revenue": "1430.62"
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 10,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-02-11",
+    "revenue": "574.75"
+  },
+  {
+    "customer_id": 61,
+    "campaign_id": 4,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-07",
+    "revenue": "1200.71"
+  },
+  {
+    "customer_id": 64,
+    "campaign_id": 13,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-03-03",
+    "revenue": "2999.81"
+  },
+  {
+    "customer_id": 34,
+    "campaign_id": 19,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-01-16",
+    "revenue": "4461.96"
+  },
+  {
+    "customer_id": 96,
+    "campaign_id": 11,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-07-07",
+    "revenue": "1419.30"
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 18,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-01-24",
+    "revenue": "3594.12"
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 11,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-08-03",
+    "revenue": "3664.37"
+  },
+  {
+    "customer_id": 34,
+    "campaign_id": 10,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-04",
+    "revenue": "4378.80"
+  },
+  {
+    "customer_id": 90,
+    "campaign_id": 7,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-03-06",
+    "revenue": "2945.48"
+  },
+  {
+    "customer_id": 99,
+    "campaign_id": 15,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-03-13",
+    "revenue": "3667.88"
+  },
+  {
+    "customer_id": 82,
+    "campaign_id": 20,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-06-17",
+    "revenue": "2200.73"
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 4,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-11-11",
+    "revenue": "4412.50"
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 18,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-12-30",
+    "revenue": "251.74"
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 10,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-11-30",
+    "revenue": "742.50"
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 16,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-07-22",
+    "revenue": "3795.27"
+  },
+  {
+    "customer_id": 26,
+    "campaign_id": 3,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-02-21",
+    "revenue": "3860.06"
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 2,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-07-20",
+    "revenue": "2393.45"
+  },
+  {
+    "customer_id": 67,
+    "campaign_id": 14,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-07-02",
+    "revenue": "1987.40"
+  },
+  {
+    "customer_id": 84,
+    "campaign_id": 5,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-08-30",
+    "revenue": "4738.00"
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 9,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-04-23",
+    "revenue": "4369.74"
+  },
+  {
+    "customer_id": 88,
+    "campaign_id": 14,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-10-12",
+    "revenue": "4713.67"
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 8,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-07-21",
+    "revenue": "3667.76"
+  },
+  {
+    "customer_id": 76,
+    "campaign_id": 12,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-06-28",
+    "revenue": "4559.85"
+  },
+  {
+    "customer_id": 14,
+    "campaign_id": 2,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-25",
+    "revenue": "3948.97"
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 14,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-06-26",
+    "revenue": "1464.33"
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 3,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-09-27",
+    "revenue": "390.56"
+  },
+  {
+    "customer_id": 91,
+    "campaign_id": 3,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-02-19",
+    "revenue": "2170.35"
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 4,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-08-16",
+    "revenue": "106.02"
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 17,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-08-05",
+    "revenue": "2470.49"
+  },
+  {
+    "customer_id": 91,
+    "campaign_id": 11,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-03-21",
+    "revenue": "4368.52"
+  },
+  {
+    "customer_id": 78,
+    "campaign_id": 4,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-09-18",
+    "revenue": "2138.12"
+  },
+  {
+    "customer_id": 27,
+    "campaign_id": 1,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-09-17",
+    "revenue": "311.72"
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 20,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-02-16",
+    "revenue": "4489.35"
+  },
+  {
+    "customer_id": 25,
+    "campaign_id": 11,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-09-24",
+    "revenue": "3125.86"
+  },
+  {
+    "customer_id": 11,
+    "campaign_id": 18,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-10-21",
+    "revenue": "462.92"
+  },
+  {
+    "customer_id": 17,
+    "campaign_id": 17,
+    "conversion_type": "Consultation",
+    "conversion_date": "2025-01-09",
+    "revenue": "3564.06"
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 16,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-05-30",
+    "revenue": "4909.62"
+  },
+  {
+    "customer_id": 81,
+    "campaign_id": 16,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-11-18",
+    "revenue": "49.10"
+  },
+  {
+    "customer_id": 13,
+    "campaign_id": 6,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-07-26",
+    "revenue": "1792.73"
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 5,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-04-07",
+    "revenue": "897.05"
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 18,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-12-03",
+    "revenue": "3928.62"
+  },
+  {
+    "customer_id": 49,
+    "campaign_id": 7,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-06-05",
+    "revenue": "3358.11"
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 1,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-08-19",
+    "revenue": "3269.15"
+  },
+  {
+    "customer_id": 18,
+    "campaign_id": 1,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-06-03",
+    "revenue": "4961.03"
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 9,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-03-16",
+    "revenue": "1889.43"
+  },
+  {
+    "customer_id": 46,
+    "campaign_id": 7,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-07-17",
+    "revenue": "4475.57"
+  },
+  {
+    "customer_id": 60,
+    "campaign_id": 5,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-12-11",
+    "revenue": "3839.62"
+  },
+  {
+    "customer_id": 65,
+    "campaign_id": 8,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-06-06",
+    "revenue": "663.56"
+  },
+  {
+    "customer_id": 43,
+    "campaign_id": 8,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-03-07",
+    "revenue": "808.96"
+  },
+  {
+    "customer_id": 77,
+    "campaign_id": 2,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-04-04",
+    "revenue": "3194.83"
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 5,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-05-27",
+    "revenue": "4547.10"
+  },
+  {
+    "customer_id": 79,
+    "campaign_id": 18,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-03-07",
+    "revenue": "1608.74"
+  },
+  {
+    "customer_id": 44,
+    "campaign_id": 13,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-07-19",
+    "revenue": "4751.80"
+  },
+  {
+    "customer_id": 99,
+    "campaign_id": 3,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-05-28",
+    "revenue": "3461.25"
+  },
+  {
+    "customer_id": 85,
+    "campaign_id": 3,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-04-01",
+    "revenue": "853.20"
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 7,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-12-04",
+    "revenue": "2490.31"
+  },
+  {
+    "customer_id": 93,
+    "campaign_id": 1,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-07-27",
+    "revenue": "2996.85"
+  },
+  {
+    "customer_id": 30,
+    "campaign_id": 1,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-10-04",
+    "revenue": "1933.08"
+  },
+  {
+    "customer_id": 12,
+    "campaign_id": 13,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-11-28",
+    "revenue": "4407.78"
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 4,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-11-28",
+    "revenue": "1802.04"
+  },
+  {
+    "customer_id": 65,
+    "campaign_id": 14,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-02-01",
+    "revenue": "2422.09"
+  },
+  {
+    "customer_id": 7,
+    "campaign_id": 11,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-12-29",
+    "revenue": "4959.96"
+  },
+  {
+    "customer_id": 95,
+    "campaign_id": 9,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-11-28",
+    "revenue": "350.69"
+  },
+  {
+    "customer_id": 13,
+    "campaign_id": 3,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-12-25",
+    "revenue": "4438.00"
+  },
+  {
+    "customer_id": 79,
+    "campaign_id": 13,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-06-06",
+    "revenue": "3197.25"
+  },
+  {
+    "customer_id": 95,
+    "campaign_id": 5,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-01-21",
+    "revenue": "963.11"
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 13,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-02-05",
+    "revenue": "3896.69"
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 6,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-08-05",
+    "revenue": "1500.52"
+  },
+  {
+    "customer_id": 13,
+    "campaign_id": 14,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-11-06",
+    "revenue": "3061.44"
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 5,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-23",
+    "revenue": "281.14"
+  },
+  {
+    "customer_id": 89,
+    "campaign_id": 18,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-03-14",
+    "revenue": "3434.50"
+  },
+  {
+    "customer_id": 30,
+    "campaign_id": 14,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-02-03",
+    "revenue": "983.87"
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 9,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-04-16",
+    "revenue": "2044.23"
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 20,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-07-27",
+    "revenue": "3622.06"
+  },
+  {
+    "customer_id": 82,
+    "campaign_id": 2,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-02-23",
+    "revenue": "4448.80"
+  },
+  {
+    "customer_id": 55,
+    "campaign_id": 13,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-10-18",
+    "revenue": "4325.61"
+  },
+  {
+    "customer_id": 64,
+    "campaign_id": 4,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-08-23",
+    "revenue": "4915.53"
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 3,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-03-04",
+    "revenue": "4131.49"
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 11,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-04-08",
+    "revenue": "1508.65"
+  },
+  {
+    "customer_id": 1,
+    "campaign_id": 8,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-08-09",
+    "revenue": "912.61"
+  },
+  {
+    "customer_id": 20,
+    "campaign_id": 4,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-10-17",
+    "revenue": "618.90"
+  },
+  {
+    "customer_id": 8,
+    "campaign_id": 17,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-11-22",
+    "revenue": "1240.43"
+  },
+  {
+    "customer_id": 90,
+    "campaign_id": 7,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-05-10",
+    "revenue": "4554.71"
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 13,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-12-15",
+    "revenue": "4395.19"
+  },
+  {
+    "customer_id": 69,
+    "campaign_id": 9,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-01-17",
+    "revenue": "3487.51"
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 11,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-04-04",
+    "revenue": "4556.66"
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 19,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-07-25",
+    "revenue": "2207.86"
+  },
+  {
+    "customer_id": 77,
+    "campaign_id": 16,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-09-16",
+    "revenue": "336.81"
+  },
+  {
+    "customer_id": 51,
+    "campaign_id": 8,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-05-08",
+    "revenue": "2863.03"
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 9,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-05-15",
+    "revenue": "1173.61"
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 11,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-08-11",
+    "revenue": "2663.08"
+  },
+  {
+    "customer_id": 64,
+    "campaign_id": 7,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-11-30",
+    "revenue": "4542.66"
+  },
+  {
+    "customer_id": 11,
+    "campaign_id": 19,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-02-04",
+    "revenue": "3957.62"
+  },
+  {
+    "customer_id": 59,
+    "campaign_id": 19,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-06-11",
+    "revenue": "4959.43"
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 9,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-02-15",
+    "revenue": "1726.75"
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 3,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-02-19",
+    "revenue": "1258.77"
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 1,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-05-10",
+    "revenue": "2343.23"
+  },
+  {
+    "customer_id": 71,
+    "campaign_id": 3,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-07",
+    "revenue": "4379.84"
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 9,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-02-23",
+    "revenue": "2574.38"
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 2,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-10-23",
+    "revenue": "2727.42"
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 13,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-01-26",
+    "revenue": "483.32"
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 17,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-12-06",
+    "revenue": "4906.20"
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 8,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-12-30",
+    "revenue": "2171.37"
+  },
+  {
+    "customer_id": 34,
+    "campaign_id": 13,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-21",
+    "revenue": "2245.03"
+  },
+  {
+    "customer_id": 17,
+    "campaign_id": 10,
+    "conversion_type": "Consultation",
+    "conversion_date": "2025-01-14",
+    "revenue": "3887.50"
+  },
+  {
+    "customer_id": 76,
+    "campaign_id": 12,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-04-02",
+    "revenue": "4291.76"
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 17,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-11-22",
+    "revenue": "1878.27"
+  },
+  {
+    "customer_id": 13,
+    "campaign_id": 1,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-04-18",
+    "revenue": "4399.25"
+  },
+  {
+    "customer_id": 85,
+    "campaign_id": 11,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-02-03",
+    "revenue": "1852.89"
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 12,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-05-31",
+    "revenue": "1629.12"
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 1,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-05-01",
+    "revenue": "3135.99"
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 19,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-07-05",
+    "revenue": "3532.18"
+  },
+  {
+    "customer_id": 74,
+    "campaign_id": 20,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-04-15",
+    "revenue": "450.59"
+  },
+  {
+    "customer_id": 79,
+    "campaign_id": 17,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-07-24",
+    "revenue": "2587.61"
+  },
+  {
+    "customer_id": 13,
+    "campaign_id": 9,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-02-29",
+    "revenue": "4164.97"
+  },
+  {
+    "customer_id": 31,
+    "campaign_id": 10,
+    "conversion_type": "Purchase",
+    "conversion_date": "2025-01-08",
+    "revenue": "2029.97"
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 6,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-03-13",
+    "revenue": "3142.61"
+  },
+  {
+    "customer_id": 5,
+    "campaign_id": 10,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-09-28",
+    "revenue": "3352.22"
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 3,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-08-22",
+    "revenue": "130.53"
+  },
+  {
+    "customer_id": 14,
+    "campaign_id": 16,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-11-01",
+    "revenue": "2273.08"
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 6,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-04-26",
+    "revenue": "2848.85"
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 9,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-08-05",
+    "revenue": "2967.09"
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 17,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-03-11",
+    "revenue": "4173.84"
+  },
+  {
+    "customer_id": 77,
+    "campaign_id": 18,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-12-07",
+    "revenue": "136.07"
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 15,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-05-13",
+    "revenue": "947.79"
+  },
+  {
+    "customer_id": 89,
+    "campaign_id": 14,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-06-28",
+    "revenue": "4881.62"
+  },
+  {
+    "customer_id": 9,
+    "campaign_id": 4,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-05-30",
+    "revenue": "158.95"
+  },
+  {
+    "customer_id": 17,
+    "campaign_id": 4,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-04-06",
+    "revenue": "2708.83"
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 11,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-04-17",
+    "revenue": "2450.57"
+  },
+  {
+    "customer_id": 34,
+    "campaign_id": 3,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-05-24",
+    "revenue": "2659.55"
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 5,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-04-12",
+    "revenue": "2647.71"
+  },
+  {
+    "customer_id": 5,
+    "campaign_id": 1,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-02-05",
+    "revenue": "2797.34"
+  },
+  {
+    "customer_id": 96,
+    "campaign_id": 4,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-21",
+    "revenue": "3212.78"
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 12,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-05-16",
+    "revenue": "4486.60"
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 7,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-04-25",
+    "revenue": "2424.09"
+  },
+  {
+    "customer_id": 25,
+    "campaign_id": 3,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-11-17",
+    "revenue": "507.06"
+  },
+  {
+    "customer_id": 82,
+    "campaign_id": 11,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-03-03",
+    "revenue": "2580.68"
+  },
+  {
+    "customer_id": 18,
+    "campaign_id": 6,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-10-19",
+    "revenue": "346.34"
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 3,
+    "conversion_type": "Consultation",
+    "conversion_date": "2025-01-11",
+    "revenue": "840.08"
+  },
+  {
+    "customer_id": 67,
+    "campaign_id": 11,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-07-03",
+    "revenue": "2410.26"
+  },
+  {
+    "customer_id": 29,
+    "campaign_id": 18,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-11-11",
+    "revenue": "1542.25"
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 19,
+    "conversion_type": "Demo Request",
+    "conversion_date": "2024-04-15",
+    "revenue": "3659.79"
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 19,
+    "conversion_type": "Purchase",
+    "conversion_date": "2025-01-07",
+    "revenue": "2991.14"
+  },
+  {
+    "customer_id": 8,
+    "campaign_id": 15,
+    "conversion_type": "Purchase",
+    "conversion_date": "2024-03-22",
+    "revenue": "3277.94"
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 12,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-10-20",
+    "revenue": "2898.68"
+  },
+  {
+    "customer_id": 81,
+    "campaign_id": 3,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-10-22",
+    "revenue": "4539.32"
+  },
+  {
+    "customer_id": 11,
+    "campaign_id": 5,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-11-17",
+    "revenue": "2038.64"
+  },
+  {
+    "customer_id": 1,
+    "campaign_id": 5,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-03-17",
+    "revenue": "3670.74"
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 5,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-03-08",
+    "revenue": "4979.28"
+  },
+  {
+    "customer_id": 90,
+    "campaign_id": 6,
+    "conversion_type": "Free Trial",
+    "conversion_date": "2024-02-21",
+    "revenue": "2262.05"
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 18,
+    "conversion_type": "Consultation",
+    "conversion_date": "2024-11-21",
+    "revenue": "4847.50"
+  },
+  {
+    "customer_id": 66,
+    "campaign_id": 13,
+    "conversion_type": "Newsletter Signup",
+    "conversion_date": "2024-12-04",
+    "revenue": "4431.68"
+  }
+]

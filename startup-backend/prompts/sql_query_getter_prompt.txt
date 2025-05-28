@@ -1,0 +1,152 @@
+Context:
+You are an expert in PostgreSQL query building and data analysis. I will provide you with a schema for multiple tables, and your task is to create PostgreSQL queries that generate data for visualizations (bar chart, line chart, pie chart, and radar chart). The visualizations should help a layman understand marketing trends based on the provided schema.
+
+Schema:
+Here is the schema for the tables. Each key represents a table name, and the corresponding value is an array of column names for that table:
+
+json
+{
+    "campaigns": [
+        "campaign_name",
+        "start_date",
+        "end_date",
+        "budget",
+        "target_audience",
+        "channels"
+    ],
+    "conversions": [
+        "customer_id",
+        "campaign_id",
+        "conversion_type",
+        "conversion_date",
+        "revenue"
+    ],
+    "customers": [
+        "customer_id",
+        "name",
+        "email",
+        "phone",
+        "address"
+    ],
+    "social_media_analytics": [
+        "customer_id",
+        "session_id",
+        "date",
+        "page_views",
+        "session_duration",
+        "bounce_rate",
+        "traffic_source"
+    ],
+    "website_analytics": [
+        "customer_id",
+        "session_id",
+        "date",
+        "page_views",
+        "session_duration",
+        "bounce_rate",
+        "traffic_source"
+    ]
+}
+Task:
+Using the schema above, create 5 PostgreSQL queries to generate data for any of the following types of charts (you can use a type of chart that you think is most relevant to the user prompt):
+
+Bar Chart
+
+Line Chart
+
+Pie Chart
+
+Radar Chart
+
+Each query should be designed to help a layman understand marketing trends. Use your best judgment to determine the most insightful metrics and relationships for each chart type.
+
+Output Format:
+For each chart, provide the following in tags:
+
+Dashboard Name: The name of the dashboard (e.g., Marketing Dashboard, Website Analytics Dashboard, etc.).
+
+Dashboard Description: A brief description of the dashboard.
+
+Chart Name: The type of chart (e.g., Bar Chart, Line Chart, etc.).
+
+PostgreSQL Query: The PostgreSQL query to generate the data for the chart.
+
+The output should be in the following example format where inside <JSONOutput> tag is the JSON output that can easily be parsed by the dashboard builder:
+
+<JSONOutput>
+{
+    "dashboardTitle": "Marketing Dashboard",
+    "dashboardDescription": "This dashboard shows the marketing data for the user's business.",
+    "data": [
+        {
+            "chartName": "Bar Chart",
+            "PostgreSQLQuery": "SELECT category, value1name, value2name, value3name FROM table_name WHERE category IN ('category1', 'category2', 'category3')"
+        },
+        {
+            "chartName": "Line Chart",
+            "PostgreSQLQuery": "SELECT date, category1name, category2name FROM table_name WHERE date IN ('2024-01-01', '2024-01-02')"
+        } ... more charts
+    ]
+}
+</JSONOutput>
+
+<Summary>
+Summary of the dashboard and the charts that you have built.
+</Summary>
+
+Chart-Specific Requirements for results from the PostgreSQL Queries:
+
+Bar Chart:
+
+Maximum of 5 categories and 5 bars per category.
+
+PostgreSQL Query Output format:
+
+[
+    { "category": "category name", "value1name": 4000, "value2name": 2400, "value3name": 2400 },
+    { "category": "category name", "value1name": 3000, "value2name": 1398, "value3name": 2210 }
+]
+Line Chart:
+
+Maximum of 5 categories.
+
+PostgreSQL Query Output format:
+
+[
+    { "date": "2024-01-01", "category1name": 186, "category2name": 80 },
+    { "date": "2024-01-02", "category2name": 305, "category1name": 200 }
+]
+Pie Chart:
+
+Maximum of 10 categories.
+
+PostgreSQL Query Output format:
+
+[
+    { "category": "category name", "value": 275 },
+    { "category": "category name", "value": 200 }
+]
+Radar Chart:
+
+Maximum of 5 categories and 4 values per category.
+
+PostgreSQL Query Output format:
+
+[
+    { "category": "category name", "value1name": 188885.88, "value2name": 249960.0 },
+    { "category": "category name", "value1name": 106988.13, "value2name": 184795.15 }
+]
+Instructions:
+
+Understand this user prompt
+
+Use the provided schema to create meaningful PostgrePostgreSQL queries.
+
+Ensure the queries are optimized for performance.
+
+Provide an example output for the dashboard and the queries in the specified format.
+
+Explain what you have built in a <Summary>summary</Summary> tag, with the summary in between the tag so I can parse it.
+
+Objective insights to gather:
+**User Prompt:**

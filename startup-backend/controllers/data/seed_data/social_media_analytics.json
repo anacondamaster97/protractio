@@ -1,0 +1,4502 @@
+[
+  {
+    "customer_id": 91,
+    "campaign_id": 7,
+    "platform": "Facebook",
+    "date": "2024-01-21",
+    "impressions": 476664,
+    "reach": 9179,
+    "engagement": 47947
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 9,
+    "platform": "Twitter",
+    "date": "2024-07-27",
+    "impressions": 716863,
+    "reach": 408040,
+    "engagement": 41261
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 8,
+    "platform": "TikTok",
+    "date": "2024-08-05",
+    "impressions": 611840,
+    "reach": 309179,
+    "engagement": 29158
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 20,
+    "platform": "Instagram",
+    "date": "2024-05-08",
+    "impressions": 954279,
+    "reach": 118787,
+    "engagement": 27740
+  },
+  {
+    "customer_id": 20,
+    "campaign_id": 6,
+    "platform": "LinkedIn",
+    "date": "2024-08-03",
+    "impressions": 640752,
+    "reach": 162628,
+    "engagement": 30326
+  },
+  {
+    "customer_id": 17,
+    "campaign_id": 15,
+    "platform": "Twitter",
+    "date": "2024-06-13",
+    "impressions": 225368,
+    "reach": 430064,
+    "engagement": 15567
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 4,
+    "platform": "Twitter",
+    "date": "2024-09-19",
+    "impressions": 752325,
+    "reach": 438995,
+    "engagement": 1369
+  },
+  {
+    "customer_id": 51,
+    "campaign_id": 18,
+    "platform": "Facebook",
+    "date": "2024-10-10",
+    "impressions": 109151,
+    "reach": 149773,
+    "engagement": 38218
+  },
+  {
+    "customer_id": 95,
+    "campaign_id": 16,
+    "platform": "Instagram",
+    "date": "2024-07-24",
+    "impressions": 926854,
+    "reach": 116056,
+    "engagement": 28522
+  },
+  {
+    "customer_id": 36,
+    "campaign_id": 10,
+    "platform": "TikTok",
+    "date": "2024-09-19",
+    "impressions": 927542,
+    "reach": 327228,
+    "engagement": 46800
+  },
+  {
+    "customer_id": 29,
+    "campaign_id": 17,
+    "platform": "Facebook",
+    "date": "2024-09-14",
+    "impressions": 848582,
+    "reach": 13761,
+    "engagement": 1051
+  },
+  {
+    "customer_id": 69,
+    "campaign_id": 4,
+    "platform": "Facebook",
+    "date": "2024-01-16",
+    "impressions": 672157,
+    "reach": 271046,
+    "engagement": 43851
+  },
+  {
+    "customer_id": 84,
+    "campaign_id": 6,
+    "platform": "Instagram",
+    "date": "2024-10-20",
+    "impressions": 721501,
+    "reach": 241035,
+    "engagement": 38009
+  },
+  {
+    "customer_id": 27,
+    "campaign_id": 12,
+    "platform": "LinkedIn",
+    "date": "2024-09-22",
+    "impressions": 287307,
+    "reach": 301848,
+    "engagement": 21108
+  },
+  {
+    "customer_id": 27,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-03-22",
+    "impressions": 40692,
+    "reach": 362019,
+    "engagement": 30931
+  },
+  {
+    "customer_id": 1,
+    "campaign_id": 16,
+    "platform": "TikTok",
+    "date": "2024-11-30",
+    "impressions": 342791,
+    "reach": 298937,
+    "engagement": 5454
+  },
+  {
+    "customer_id": 13,
+    "campaign_id": 13,
+    "platform": "Instagram",
+    "date": "2024-08-11",
+    "impressions": 992125,
+    "reach": 149666,
+    "engagement": 16127
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 8,
+    "platform": "TikTok",
+    "date": "2024-02-18",
+    "impressions": 298997,
+    "reach": 96825,
+    "engagement": 18991
+  },
+  {
+    "customer_id": 98,
+    "campaign_id": 9,
+    "platform": "Instagram",
+    "date": "2025-01-10",
+    "impressions": 984271,
+    "reach": 330339,
+    "engagement": 7478
+  },
+  {
+    "customer_id": 15,
+    "campaign_id": 15,
+    "platform": "Twitter",
+    "date": "2024-07-20",
+    "impressions": 743133,
+    "reach": 431204,
+    "engagement": 27314
+  },
+  {
+    "customer_id": 91,
+    "campaign_id": 3,
+    "platform": "Twitter",
+    "date": "2024-01-26",
+    "impressions": 283163,
+    "reach": 262710,
+    "engagement": 43661
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 1,
+    "platform": "Facebook",
+    "date": "2024-10-23",
+    "impressions": 491971,
+    "reach": 81285,
+    "engagement": 4758
+  },
+  {
+    "customer_id": 25,
+    "campaign_id": 10,
+    "platform": "Twitter",
+    "date": "2024-10-20",
+    "impressions": 231932,
+    "reach": 487070,
+    "engagement": 33261
+  },
+  {
+    "customer_id": 98,
+    "campaign_id": 10,
+    "platform": "Twitter",
+    "date": "2024-12-22",
+    "impressions": 323942,
+    "reach": 37702,
+    "engagement": 24249
+  },
+  {
+    "customer_id": 46,
+    "campaign_id": 17,
+    "platform": "TikTok",
+    "date": "2024-03-16",
+    "impressions": 801167,
+    "reach": 18195,
+    "engagement": 43728
+  },
+  {
+    "customer_id": 10,
+    "campaign_id": 6,
+    "platform": "Facebook",
+    "date": "2024-11-17",
+    "impressions": 520617,
+    "reach": 66041,
+    "engagement": 8594
+  },
+  {
+    "customer_id": 8,
+    "campaign_id": 7,
+    "platform": "Twitter",
+    "date": "2025-01-09",
+    "impressions": 977161,
+    "reach": 142680,
+    "engagement": 800
+  },
+  {
+    "customer_id": 99,
+    "campaign_id": 12,
+    "platform": "Twitter",
+    "date": "2024-06-26",
+    "impressions": 121263,
+    "reach": 143497,
+    "engagement": 10802
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 14,
+    "platform": "Twitter",
+    "date": "2024-06-03",
+    "impressions": 626547,
+    "reach": 203736,
+    "engagement": 10461
+  },
+  {
+    "customer_id": 25,
+    "campaign_id": 2,
+    "platform": "TikTok",
+    "date": "2024-05-02",
+    "impressions": 749349,
+    "reach": 61553,
+    "engagement": 20501
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 3,
+    "platform": "Twitter",
+    "date": "2024-03-08",
+    "impressions": 22505,
+    "reach": 257710,
+    "engagement": 12514
+  },
+  {
+    "customer_id": 82,
+    "campaign_id": 9,
+    "platform": "TikTok",
+    "date": "2024-09-05",
+    "impressions": 566779,
+    "reach": 446855,
+    "engagement": 15285
+  },
+  {
+    "customer_id": 60,
+    "campaign_id": 5,
+    "platform": "Facebook",
+    "date": "2024-12-02",
+    "impressions": 256186,
+    "reach": 94667,
+    "engagement": 29717
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 11,
+    "platform": "TikTok",
+    "date": "2024-07-26",
+    "impressions": 376572,
+    "reach": 212460,
+    "engagement": 7422
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 13,
+    "platform": "Instagram",
+    "date": "2024-12-01",
+    "impressions": 287354,
+    "reach": 126596,
+    "engagement": 40466
+  },
+  {
+    "customer_id": 76,
+    "campaign_id": 3,
+    "platform": "Facebook",
+    "date": "2024-12-17",
+    "impressions": 424374,
+    "reach": 222239,
+    "engagement": 49994
+  },
+  {
+    "customer_id": 89,
+    "campaign_id": 18,
+    "platform": "TikTok",
+    "date": "2024-10-11",
+    "impressions": 745581,
+    "reach": 259988,
+    "engagement": 28751
+  },
+  {
+    "customer_id": 51,
+    "campaign_id": 15,
+    "platform": "TikTok",
+    "date": "2024-05-31",
+    "impressions": 355035,
+    "reach": 12359,
+    "engagement": 37000
+  },
+  {
+    "customer_id": 78,
+    "campaign_id": 7,
+    "platform": "LinkedIn",
+    "date": "2024-03-01",
+    "impressions": 480454,
+    "reach": 107739,
+    "engagement": 22118
+  },
+  {
+    "customer_id": 34,
+    "campaign_id": 14,
+    "platform": "Facebook",
+    "date": "2024-12-20",
+    "impressions": 288705,
+    "reach": 291935,
+    "engagement": 12376
+  },
+  {
+    "customer_id": 91,
+    "campaign_id": 9,
+    "platform": "LinkedIn",
+    "date": "2024-03-10",
+    "impressions": 521237,
+    "reach": 149884,
+    "engagement": 49613
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 7,
+    "platform": "Facebook",
+    "date": "2024-08-23",
+    "impressions": 608876,
+    "reach": 352122,
+    "engagement": 20192
+  },
+  {
+    "customer_id": 63,
+    "campaign_id": 3,
+    "platform": "LinkedIn",
+    "date": "2024-10-04",
+    "impressions": 380333,
+    "reach": 156018,
+    "engagement": 20245
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 5,
+    "platform": "LinkedIn",
+    "date": "2024-09-06",
+    "impressions": 316964,
+    "reach": 71642,
+    "engagement": 43931
+  },
+  {
+    "customer_id": 76,
+    "campaign_id": 11,
+    "platform": "TikTok",
+    "date": "2024-10-24",
+    "impressions": 231914,
+    "reach": 25154,
+    "engagement": 4113
+  },
+  {
+    "customer_id": 11,
+    "campaign_id": 12,
+    "platform": "Instagram",
+    "date": "2024-11-25",
+    "impressions": 136512,
+    "reach": 44185,
+    "engagement": 21700
+  },
+  {
+    "customer_id": 7,
+    "campaign_id": 9,
+    "platform": "TikTok",
+    "date": "2024-12-16",
+    "impressions": 712784,
+    "reach": 491233,
+    "engagement": 40109
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 18,
+    "platform": "Facebook",
+    "date": "2024-08-19",
+    "impressions": 817210,
+    "reach": 304731,
+    "engagement": 46485
+  },
+  {
+    "customer_id": 36,
+    "campaign_id": 8,
+    "platform": "Facebook",
+    "date": "2024-10-25",
+    "impressions": 343108,
+    "reach": 274755,
+    "engagement": 47679
+  },
+  {
+    "customer_id": 77,
+    "campaign_id": 11,
+    "platform": "TikTok",
+    "date": "2024-06-15",
+    "impressions": 638415,
+    "reach": 267545,
+    "engagement": 26057
+  },
+  {
+    "customer_id": 81,
+    "campaign_id": 9,
+    "platform": "Twitter",
+    "date": "2024-03-01",
+    "impressions": 474410,
+    "reach": 309521,
+    "engagement": 18559
+  },
+  {
+    "customer_id": 59,
+    "campaign_id": 20,
+    "platform": "Twitter",
+    "date": "2024-12-22",
+    "impressions": 301088,
+    "reach": 327275,
+    "engagement": 45650
+  },
+  {
+    "customer_id": 90,
+    "campaign_id": 7,
+    "platform": "Instagram",
+    "date": "2024-05-13",
+    "impressions": 298138,
+    "reach": 450367,
+    "engagement": 7476
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 19,
+    "platform": "LinkedIn",
+    "date": "2024-02-19",
+    "impressions": 298617,
+    "reach": 259455,
+    "engagement": 31138
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 7,
+    "platform": "Twitter",
+    "date": "2024-04-08",
+    "impressions": 527784,
+    "reach": 272402,
+    "engagement": 32331
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 19,
+    "platform": "Twitter",
+    "date": "2024-10-27",
+    "impressions": 542081,
+    "reach": 106719,
+    "engagement": 28991
+  },
+  {
+    "customer_id": 18,
+    "campaign_id": 20,
+    "platform": "Instagram",
+    "date": "2024-04-05",
+    "impressions": 536452,
+    "reach": 350770,
+    "engagement": 31853
+  },
+  {
+    "customer_id": 10,
+    "campaign_id": 16,
+    "platform": "TikTok",
+    "date": "2024-07-22",
+    "impressions": 963867,
+    "reach": 419775,
+    "engagement": 45761
+  },
+  {
+    "customer_id": 37,
+    "campaign_id": 4,
+    "platform": "LinkedIn",
+    "date": "2024-06-24",
+    "impressions": 924033,
+    "reach": 406413,
+    "engagement": 44835
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 13,
+    "platform": "Instagram",
+    "date": "2024-05-25",
+    "impressions": 254318,
+    "reach": 32464,
+    "engagement": 4612
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 12,
+    "platform": "LinkedIn",
+    "date": "2024-02-14",
+    "impressions": 19802,
+    "reach": 174241,
+    "engagement": 21534
+  },
+  {
+    "customer_id": 65,
+    "campaign_id": 16,
+    "platform": "LinkedIn",
+    "date": "2024-09-19",
+    "impressions": 672793,
+    "reach": 397162,
+    "engagement": 36973
+  },
+  {
+    "customer_id": 99,
+    "campaign_id": 12,
+    "platform": "Facebook",
+    "date": "2024-10-24",
+    "impressions": 710021,
+    "reach": 397121,
+    "engagement": 39812
+  },
+  {
+    "customer_id": 55,
+    "campaign_id": 3,
+    "platform": "Facebook",
+    "date": "2024-06-27",
+    "impressions": 947862,
+    "reach": 385167,
+    "engagement": 46664
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 3,
+    "platform": "Facebook",
+    "date": "2024-06-19",
+    "impressions": 708955,
+    "reach": 449380,
+    "engagement": 37142
+  },
+  {
+    "customer_id": 91,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-04-17",
+    "impressions": 538753,
+    "reach": 41264,
+    "engagement": 46715
+  },
+  {
+    "customer_id": 18,
+    "campaign_id": 9,
+    "platform": "LinkedIn",
+    "date": "2024-10-25",
+    "impressions": 720705,
+    "reach": 348580,
+    "engagement": 36695
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 4,
+    "platform": "Facebook",
+    "date": "2024-06-21",
+    "impressions": 236972,
+    "reach": 18112,
+    "engagement": 32925
+  },
+  {
+    "customer_id": 48,
+    "campaign_id": 8,
+    "platform": "TikTok",
+    "date": "2024-05-13",
+    "impressions": 160112,
+    "reach": 146520,
+    "engagement": 2459
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 3,
+    "platform": "Instagram",
+    "date": "2024-10-11",
+    "impressions": 410880,
+    "reach": 421609,
+    "engagement": 17449
+  },
+  {
+    "customer_id": 78,
+    "campaign_id": 6,
+    "platform": "Instagram",
+    "date": "2024-09-22",
+    "impressions": 427501,
+    "reach": 136621,
+    "engagement": 596
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 10,
+    "platform": "Twitter",
+    "date": "2024-04-20",
+    "impressions": 886552,
+    "reach": 456265,
+    "engagement": 40456
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 12,
+    "platform": "Instagram",
+    "date": "2024-02-21",
+    "impressions": 966843,
+    "reach": 262240,
+    "engagement": 23678
+  },
+  {
+    "customer_id": 30,
+    "campaign_id": 7,
+    "platform": "Instagram",
+    "date": "2024-03-15",
+    "impressions": 470990,
+    "reach": 47034,
+    "engagement": 12310
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 6,
+    "platform": "Twitter",
+    "date": "2024-08-07",
+    "impressions": 13898,
+    "reach": 454641,
+    "engagement": 33102
+  },
+  {
+    "customer_id": 25,
+    "campaign_id": 6,
+    "platform": "Facebook",
+    "date": "2024-11-19",
+    "impressions": 111761,
+    "reach": 317367,
+    "engagement": 40294
+  },
+  {
+    "customer_id": 79,
+    "campaign_id": 12,
+    "platform": "Twitter",
+    "date": "2024-02-17",
+    "impressions": 118956,
+    "reach": 402802,
+    "engagement": 22119
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 6,
+    "platform": "Facebook",
+    "date": "2024-08-12",
+    "impressions": 834556,
+    "reach": 246169,
+    "engagement": 14420
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 12,
+    "platform": "Twitter",
+    "date": "2024-02-25",
+    "impressions": 525832,
+    "reach": 440648,
+    "engagement": 17068
+  },
+  {
+    "customer_id": 67,
+    "campaign_id": 10,
+    "platform": "LinkedIn",
+    "date": "2024-04-16",
+    "impressions": 847332,
+    "reach": 367494,
+    "engagement": 11393
+  },
+  {
+    "customer_id": 44,
+    "campaign_id": 3,
+    "platform": "Twitter",
+    "date": "2025-01-14",
+    "impressions": 640685,
+    "reach": 319540,
+    "engagement": 32553
+  },
+  {
+    "customer_id": 6,
+    "campaign_id": 6,
+    "platform": "Facebook",
+    "date": "2024-06-13",
+    "impressions": 336792,
+    "reach": 255756,
+    "engagement": 6860
+  },
+  {
+    "customer_id": 95,
+    "campaign_id": 7,
+    "platform": "Instagram",
+    "date": "2024-04-03",
+    "impressions": 792894,
+    "reach": 445714,
+    "engagement": 12633
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 9,
+    "platform": "Instagram",
+    "date": "2024-02-03",
+    "impressions": 382562,
+    "reach": 244224,
+    "engagement": 18432
+  },
+  {
+    "customer_id": 84,
+    "campaign_id": 17,
+    "platform": "Facebook",
+    "date": "2024-08-29",
+    "impressions": 626025,
+    "reach": 255980,
+    "engagement": 49208
+  },
+  {
+    "customer_id": 61,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-10-01",
+    "impressions": 33734,
+    "reach": 53266,
+    "engagement": 26600
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-06-14",
+    "impressions": 102845,
+    "reach": 186275,
+    "engagement": 6298
+  },
+  {
+    "customer_id": 44,
+    "campaign_id": 3,
+    "platform": "TikTok",
+    "date": "2024-09-19",
+    "impressions": 767882,
+    "reach": 167363,
+    "engagement": 27713
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 13,
+    "platform": "Twitter",
+    "date": "2024-01-18",
+    "impressions": 766813,
+    "reach": 120530,
+    "engagement": 19433
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 3,
+    "platform": "Facebook",
+    "date": "2024-04-13",
+    "impressions": 814407,
+    "reach": 408451,
+    "engagement": 28911
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 17,
+    "platform": "Twitter",
+    "date": "2024-03-22",
+    "impressions": 676075,
+    "reach": 252092,
+    "engagement": 34761
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 10,
+    "platform": "TikTok",
+    "date": "2024-12-06",
+    "impressions": 376063,
+    "reach": 420569,
+    "engagement": 26213
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 2,
+    "platform": "TikTok",
+    "date": "2024-06-29",
+    "impressions": 776412,
+    "reach": 1539,
+    "engagement": 41026
+  },
+  {
+    "customer_id": 64,
+    "campaign_id": 1,
+    "platform": "Twitter",
+    "date": "2024-08-06",
+    "impressions": 247756,
+    "reach": 350482,
+    "engagement": 20447
+  },
+  {
+    "customer_id": 30,
+    "campaign_id": 19,
+    "platform": "Twitter",
+    "date": "2024-12-10",
+    "impressions": 76059,
+    "reach": 291861,
+    "engagement": 7127
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 18,
+    "platform": "LinkedIn",
+    "date": "2024-06-26",
+    "impressions": 69317,
+    "reach": 202844,
+    "engagement": 19251
+  },
+  {
+    "customer_id": 82,
+    "campaign_id": 10,
+    "platform": "TikTok",
+    "date": "2024-10-12",
+    "impressions": 220472,
+    "reach": 148264,
+    "engagement": 32702
+  },
+  {
+    "customer_id": 15,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2024-09-14",
+    "impressions": 683481,
+    "reach": 290367,
+    "engagement": 42307
+  },
+  {
+    "customer_id": 22,
+    "campaign_id": 13,
+    "platform": "Twitter",
+    "date": "2024-12-29",
+    "impressions": 189591,
+    "reach": 209232,
+    "engagement": 12435
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 10,
+    "platform": "TikTok",
+    "date": "2024-09-26",
+    "impressions": 67236,
+    "reach": 353975,
+    "engagement": 20906
+  },
+  {
+    "customer_id": 46,
+    "campaign_id": 10,
+    "platform": "LinkedIn",
+    "date": "2024-05-01",
+    "impressions": 84381,
+    "reach": 183299,
+    "engagement": 43250
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 20,
+    "platform": "LinkedIn",
+    "date": "2024-11-21",
+    "impressions": 391476,
+    "reach": 194850,
+    "engagement": 327
+  },
+  {
+    "customer_id": 38,
+    "campaign_id": 7,
+    "platform": "LinkedIn",
+    "date": "2024-08-13",
+    "impressions": 318576,
+    "reach": 106873,
+    "engagement": 12149
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 15,
+    "platform": "TikTok",
+    "date": "2024-10-18",
+    "impressions": 321585,
+    "reach": 493134,
+    "engagement": 47227
+  },
+  {
+    "customer_id": 45,
+    "campaign_id": 18,
+    "platform": "LinkedIn",
+    "date": "2024-07-31",
+    "impressions": 711422,
+    "reach": 479714,
+    "engagement": 28803
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 10,
+    "platform": "Facebook",
+    "date": "2024-11-10",
+    "impressions": 698213,
+    "reach": 455180,
+    "engagement": 40471
+  },
+  {
+    "customer_id": 31,
+    "campaign_id": 7,
+    "platform": "Twitter",
+    "date": "2024-11-23",
+    "impressions": 537999,
+    "reach": 404941,
+    "engagement": 30150
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 4,
+    "platform": "LinkedIn",
+    "date": "2024-05-31",
+    "impressions": 856031,
+    "reach": 312763,
+    "engagement": 36375
+  },
+  {
+    "customer_id": 71,
+    "campaign_id": 1,
+    "platform": "LinkedIn",
+    "date": "2024-07-19",
+    "impressions": 4458,
+    "reach": 175637,
+    "engagement": 42252
+  },
+  {
+    "customer_id": 69,
+    "campaign_id": 2,
+    "platform": "Instagram",
+    "date": "2024-08-10",
+    "impressions": 801160,
+    "reach": 77047,
+    "engagement": 41671
+  },
+  {
+    "customer_id": 88,
+    "campaign_id": 15,
+    "platform": "Twitter",
+    "date": "2024-09-10",
+    "impressions": 859969,
+    "reach": 366704,
+    "engagement": 3547
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 19,
+    "platform": "TikTok",
+    "date": "2024-11-12",
+    "impressions": 887165,
+    "reach": 461303,
+    "engagement": 44293
+  },
+  {
+    "customer_id": 71,
+    "campaign_id": 6,
+    "platform": "Facebook",
+    "date": "2024-06-25",
+    "impressions": 913182,
+    "reach": 449024,
+    "engagement": 45639
+  },
+  {
+    "customer_id": 44,
+    "campaign_id": 18,
+    "platform": "TikTok",
+    "date": "2024-11-30",
+    "impressions": 381921,
+    "reach": 429994,
+    "engagement": 38087
+  },
+  {
+    "customer_id": 67,
+    "campaign_id": 6,
+    "platform": "Twitter",
+    "date": "2024-02-29",
+    "impressions": 438702,
+    "reach": 491778,
+    "engagement": 49257
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 14,
+    "platform": "TikTok",
+    "date": "2024-03-29",
+    "impressions": 254547,
+    "reach": 249831,
+    "engagement": 378
+  },
+  {
+    "customer_id": 95,
+    "campaign_id": 12,
+    "platform": "Facebook",
+    "date": "2024-02-19",
+    "impressions": 903222,
+    "reach": 321744,
+    "engagement": 22667
+  },
+  {
+    "customer_id": 90,
+    "campaign_id": 19,
+    "platform": "TikTok",
+    "date": "2024-05-17",
+    "impressions": 12680,
+    "reach": 332129,
+    "engagement": 19183
+  },
+  {
+    "customer_id": 48,
+    "campaign_id": 1,
+    "platform": "LinkedIn",
+    "date": "2024-07-05",
+    "impressions": 899420,
+    "reach": 161310,
+    "engagement": 48052
+  },
+  {
+    "customer_id": 4,
+    "campaign_id": 13,
+    "platform": "Facebook",
+    "date": "2024-03-01",
+    "impressions": 529236,
+    "reach": 107170,
+    "engagement": 39363
+  },
+  {
+    "customer_id": 7,
+    "campaign_id": 13,
+    "platform": "Facebook",
+    "date": "2024-09-10",
+    "impressions": 812127,
+    "reach": 314373,
+    "engagement": 3290
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 9,
+    "platform": "LinkedIn",
+    "date": "2024-04-15",
+    "impressions": 149186,
+    "reach": 52056,
+    "engagement": 21226
+  },
+  {
+    "customer_id": 2,
+    "campaign_id": 19,
+    "platform": "LinkedIn",
+    "date": "2024-09-22",
+    "impressions": 595450,
+    "reach": 109655,
+    "engagement": 29389
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2024-06-07",
+    "impressions": 185251,
+    "reach": 20329,
+    "engagement": 12509
+  },
+  {
+    "customer_id": 27,
+    "campaign_id": 2,
+    "platform": "Twitter",
+    "date": "2024-02-10",
+    "impressions": 631378,
+    "reach": 423484,
+    "engagement": 12425
+  },
+  {
+    "customer_id": 55,
+    "campaign_id": 9,
+    "platform": "TikTok",
+    "date": "2024-05-08",
+    "impressions": 785383,
+    "reach": 47433,
+    "engagement": 16172
+  },
+  {
+    "customer_id": 7,
+    "campaign_id": 10,
+    "platform": "Twitter",
+    "date": "2024-05-03",
+    "impressions": 60539,
+    "reach": 118715,
+    "engagement": 2585
+  },
+  {
+    "customer_id": 34,
+    "campaign_id": 2,
+    "platform": "Twitter",
+    "date": "2024-08-29",
+    "impressions": 396379,
+    "reach": 62169,
+    "engagement": 43056
+  },
+  {
+    "customer_id": 46,
+    "campaign_id": 7,
+    "platform": "LinkedIn",
+    "date": "2024-02-04",
+    "impressions": 76810,
+    "reach": 36100,
+    "engagement": 32724
+  },
+  {
+    "customer_id": 20,
+    "campaign_id": 13,
+    "platform": "Instagram",
+    "date": "2024-11-23",
+    "impressions": 644229,
+    "reach": 189526,
+    "engagement": 3197
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 20,
+    "platform": "TikTok",
+    "date": "2024-07-20",
+    "impressions": 996934,
+    "reach": 423785,
+    "engagement": 29759
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 7,
+    "platform": "Instagram",
+    "date": "2024-11-07",
+    "impressions": 882732,
+    "reach": 269138,
+    "engagement": 6133
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 1,
+    "platform": "LinkedIn",
+    "date": "2024-12-31",
+    "impressions": 215090,
+    "reach": 246564,
+    "engagement": 3336
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 9,
+    "platform": "Twitter",
+    "date": "2024-07-07",
+    "impressions": 372845,
+    "reach": 9391,
+    "engagement": 30888
+  },
+  {
+    "customer_id": 8,
+    "campaign_id": 15,
+    "platform": "Facebook",
+    "date": "2024-09-16",
+    "impressions": 411107,
+    "reach": 107206,
+    "engagement": 32080
+  },
+  {
+    "customer_id": 89,
+    "campaign_id": 12,
+    "platform": "LinkedIn",
+    "date": "2024-05-16",
+    "impressions": 667850,
+    "reach": 429223,
+    "engagement": 464
+  },
+  {
+    "customer_id": 14,
+    "campaign_id": 13,
+    "platform": "Twitter",
+    "date": "2024-07-11",
+    "impressions": 359864,
+    "reach": 390210,
+    "engagement": 47034
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 7,
+    "platform": "Twitter",
+    "date": "2024-03-16",
+    "impressions": 299024,
+    "reach": 467671,
+    "engagement": 2081
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 13,
+    "platform": "Facebook",
+    "date": "2024-02-18",
+    "impressions": 792336,
+    "reach": 448370,
+    "engagement": 23938
+  },
+  {
+    "customer_id": 27,
+    "campaign_id": 4,
+    "platform": "Twitter",
+    "date": "2024-12-19",
+    "impressions": 661818,
+    "reach": 132335,
+    "engagement": 39699
+  },
+  {
+    "customer_id": 69,
+    "campaign_id": 20,
+    "platform": "Facebook",
+    "date": "2024-08-29",
+    "impressions": 318905,
+    "reach": 429581,
+    "engagement": 34649
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 4,
+    "platform": "Facebook",
+    "date": "2024-09-19",
+    "impressions": 187090,
+    "reach": 395043,
+    "engagement": 41259
+  },
+  {
+    "customer_id": 30,
+    "campaign_id": 2,
+    "platform": "Instagram",
+    "date": "2024-11-23",
+    "impressions": 980296,
+    "reach": 48705,
+    "engagement": 23437
+  },
+  {
+    "customer_id": 21,
+    "campaign_id": 1,
+    "platform": "TikTok",
+    "date": "2024-06-27",
+    "impressions": 66561,
+    "reach": 424103,
+    "engagement": 17156
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 2,
+    "platform": "TikTok",
+    "date": "2024-02-01",
+    "impressions": 257696,
+    "reach": 358904,
+    "engagement": 24502
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 4,
+    "platform": "Instagram",
+    "date": "2024-10-08",
+    "impressions": 207241,
+    "reach": 303703,
+    "engagement": 40117
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 11,
+    "platform": "Instagram",
+    "date": "2025-01-14",
+    "impressions": 888316,
+    "reach": 38481,
+    "engagement": 15314
+  },
+  {
+    "customer_id": 43,
+    "campaign_id": 7,
+    "platform": "TikTok",
+    "date": "2024-11-01",
+    "impressions": 709418,
+    "reach": 8247,
+    "engagement": 30522
+  },
+  {
+    "customer_id": 82,
+    "campaign_id": 4,
+    "platform": "Twitter",
+    "date": "2024-10-29",
+    "impressions": 815247,
+    "reach": 185486,
+    "engagement": 31263
+  },
+  {
+    "customer_id": 9,
+    "campaign_id": 20,
+    "platform": "Twitter",
+    "date": "2024-04-25",
+    "impressions": 904244,
+    "reach": 296885,
+    "engagement": 14410
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 10,
+    "platform": "TikTok",
+    "date": "2024-06-16",
+    "impressions": 674578,
+    "reach": 436464,
+    "engagement": 16456
+  },
+  {
+    "customer_id": 22,
+    "campaign_id": 11,
+    "platform": "Facebook",
+    "date": "2024-09-28",
+    "impressions": 446057,
+    "reach": 184699,
+    "engagement": 34293
+  },
+  {
+    "customer_id": 8,
+    "campaign_id": 5,
+    "platform": "TikTok",
+    "date": "2024-05-25",
+    "impressions": 154068,
+    "reach": 325330,
+    "engagement": 6690
+  },
+  {
+    "customer_id": 81,
+    "campaign_id": 3,
+    "platform": "Instagram",
+    "date": "2024-08-13",
+    "impressions": 958297,
+    "reach": 396517,
+    "engagement": 3196
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 1,
+    "platform": "Twitter",
+    "date": "2024-03-09",
+    "impressions": 192903,
+    "reach": 168829,
+    "engagement": 33864
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 2,
+    "platform": "TikTok",
+    "date": "2024-09-04",
+    "impressions": 406807,
+    "reach": 372712,
+    "engagement": 17195
+  },
+  {
+    "customer_id": 95,
+    "campaign_id": 7,
+    "platform": "Facebook",
+    "date": "2024-03-26",
+    "impressions": 777525,
+    "reach": 139904,
+    "engagement": 36496
+  },
+  {
+    "customer_id": 93,
+    "campaign_id": 3,
+    "platform": "Twitter",
+    "date": "2024-12-07",
+    "impressions": 860750,
+    "reach": 75161,
+    "engagement": 23430
+  },
+  {
+    "customer_id": 93,
+    "campaign_id": 20,
+    "platform": "Twitter",
+    "date": "2024-07-02",
+    "impressions": 169601,
+    "reach": 327837,
+    "engagement": 4543
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 13,
+    "platform": "Twitter",
+    "date": "2024-10-06",
+    "impressions": 678767,
+    "reach": 439184,
+    "engagement": 7216
+  },
+  {
+    "customer_id": 33,
+    "campaign_id": 1,
+    "platform": "Twitter",
+    "date": "2024-07-27",
+    "impressions": 438047,
+    "reach": 262635,
+    "engagement": 12353
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 6,
+    "platform": "TikTok",
+    "date": "2024-09-24",
+    "impressions": 853885,
+    "reach": 200577,
+    "engagement": 11514
+  },
+  {
+    "customer_id": 8,
+    "campaign_id": 20,
+    "platform": "TikTok",
+    "date": "2024-02-26",
+    "impressions": 558371,
+    "reach": 185566,
+    "engagement": 19761
+  },
+  {
+    "customer_id": 4,
+    "campaign_id": 15,
+    "platform": "Twitter",
+    "date": "2024-01-31",
+    "impressions": 920064,
+    "reach": 92633,
+    "engagement": 46498
+  },
+  {
+    "customer_id": 24,
+    "campaign_id": 9,
+    "platform": "LinkedIn",
+    "date": "2024-08-04",
+    "impressions": 317596,
+    "reach": 478344,
+    "engagement": 2432
+  },
+  {
+    "customer_id": 81,
+    "campaign_id": 5,
+    "platform": "LinkedIn",
+    "date": "2024-05-02",
+    "impressions": 844538,
+    "reach": 251470,
+    "engagement": 24514
+  },
+  {
+    "customer_id": 78,
+    "campaign_id": 16,
+    "platform": "Instagram",
+    "date": "2024-02-10",
+    "impressions": 296667,
+    "reach": 160489,
+    "engagement": 45142
+  },
+  {
+    "customer_id": 21,
+    "campaign_id": 18,
+    "platform": "Twitter",
+    "date": "2024-12-10",
+    "impressions": 199696,
+    "reach": 404362,
+    "engagement": 33582
+  },
+  {
+    "customer_id": 8,
+    "campaign_id": 13,
+    "platform": "LinkedIn",
+    "date": "2024-08-16",
+    "impressions": 419903,
+    "reach": 455067,
+    "engagement": 29671
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-05-10",
+    "impressions": 177984,
+    "reach": 360157,
+    "engagement": 37835
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 11,
+    "platform": "TikTok",
+    "date": "2024-01-19",
+    "impressions": 293149,
+    "reach": 332923,
+    "engagement": 35494
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 3,
+    "platform": "Instagram",
+    "date": "2024-09-11",
+    "impressions": 707148,
+    "reach": 469804,
+    "engagement": 20259
+  },
+  {
+    "customer_id": 31,
+    "campaign_id": 18,
+    "platform": "Twitter",
+    "date": "2024-10-25",
+    "impressions": 169800,
+    "reach": 396575,
+    "engagement": 10827
+  },
+  {
+    "customer_id": 61,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-07-06",
+    "impressions": 647418,
+    "reach": 420803,
+    "engagement": 21026
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 18,
+    "platform": "Twitter",
+    "date": "2024-08-07",
+    "impressions": 622643,
+    "reach": 153173,
+    "engagement": 7095
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 7,
+    "platform": "TikTok",
+    "date": "2024-08-25",
+    "impressions": 806893,
+    "reach": 466618,
+    "engagement": 17051
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 18,
+    "platform": "TikTok",
+    "date": "2024-09-13",
+    "impressions": 588638,
+    "reach": 214848,
+    "engagement": 23146
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 19,
+    "platform": "Twitter",
+    "date": "2024-11-16",
+    "impressions": 437810,
+    "reach": 214072,
+    "engagement": 33207
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 4,
+    "platform": "TikTok",
+    "date": "2024-06-30",
+    "impressions": 450087,
+    "reach": 299654,
+    "engagement": 24813
+  },
+  {
+    "customer_id": 88,
+    "campaign_id": 5,
+    "platform": "Twitter",
+    "date": "2024-08-12",
+    "impressions": 501541,
+    "reach": 165896,
+    "engagement": 29516
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 8,
+    "platform": "Instagram",
+    "date": "2024-11-27",
+    "impressions": 451067,
+    "reach": 371365,
+    "engagement": 4283
+  },
+  {
+    "customer_id": 55,
+    "campaign_id": 12,
+    "platform": "Twitter",
+    "date": "2024-03-27",
+    "impressions": 48797,
+    "reach": 410590,
+    "engagement": 6996
+  },
+  {
+    "customer_id": 93,
+    "campaign_id": 5,
+    "platform": "Twitter",
+    "date": "2024-11-11",
+    "impressions": 666165,
+    "reach": 354075,
+    "engagement": 43449
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 8,
+    "platform": "LinkedIn",
+    "date": "2024-06-25",
+    "impressions": 944582,
+    "reach": 498184,
+    "engagement": 17386
+  },
+  {
+    "customer_id": 99,
+    "campaign_id": 13,
+    "platform": "LinkedIn",
+    "date": "2024-12-03",
+    "impressions": 774237,
+    "reach": 83141,
+    "engagement": 37884
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 10,
+    "platform": "LinkedIn",
+    "date": "2024-01-24",
+    "impressions": 748309,
+    "reach": 347461,
+    "engagement": 12218
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 2,
+    "platform": "Instagram",
+    "date": "2024-04-06",
+    "impressions": 632911,
+    "reach": 486192,
+    "engagement": 25241
+  },
+  {
+    "customer_id": 91,
+    "campaign_id": 3,
+    "platform": "Twitter",
+    "date": "2024-01-17",
+    "impressions": 139117,
+    "reach": 255218,
+    "engagement": 44755
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 4,
+    "platform": "LinkedIn",
+    "date": "2024-03-31",
+    "impressions": 25516,
+    "reach": 208996,
+    "engagement": 46873
+  },
+  {
+    "customer_id": 59,
+    "campaign_id": 16,
+    "platform": "LinkedIn",
+    "date": "2024-05-19",
+    "impressions": 864422,
+    "reach": 484430,
+    "engagement": 11705
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 7,
+    "platform": "Instagram",
+    "date": "2024-10-11",
+    "impressions": 522106,
+    "reach": 154128,
+    "engagement": 28452
+  },
+  {
+    "customer_id": 10,
+    "campaign_id": 8,
+    "platform": "TikTok",
+    "date": "2024-07-19",
+    "impressions": 633016,
+    "reach": 217645,
+    "engagement": 41580
+  },
+  {
+    "customer_id": 44,
+    "campaign_id": 11,
+    "platform": "Instagram",
+    "date": "2024-09-12",
+    "impressions": 535738,
+    "reach": 107878,
+    "engagement": 18522
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 4,
+    "platform": "Instagram",
+    "date": "2024-06-30",
+    "impressions": 299285,
+    "reach": 96865,
+    "engagement": 15603
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 15,
+    "platform": "LinkedIn",
+    "date": "2024-11-17",
+    "impressions": 804210,
+    "reach": 95905,
+    "engagement": 6788
+  },
+  {
+    "customer_id": 89,
+    "campaign_id": 8,
+    "platform": "Instagram",
+    "date": "2024-06-06",
+    "impressions": 816098,
+    "reach": 311854,
+    "engagement": 12015
+  },
+  {
+    "customer_id": 5,
+    "campaign_id": 17,
+    "platform": "Facebook",
+    "date": "2024-02-29",
+    "impressions": 829613,
+    "reach": 497481,
+    "engagement": 23390
+  },
+  {
+    "customer_id": 58,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-10-01",
+    "impressions": 834999,
+    "reach": 204668,
+    "engagement": 44952
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 15,
+    "platform": "Facebook",
+    "date": "2024-05-04",
+    "impressions": 123614,
+    "reach": 480943,
+    "engagement": 1187
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 2,
+    "platform": "Facebook",
+    "date": "2024-05-07",
+    "impressions": 265763,
+    "reach": 393514,
+    "engagement": 49925
+  },
+  {
+    "customer_id": 50,
+    "campaign_id": 14,
+    "platform": "LinkedIn",
+    "date": "2024-04-14",
+    "impressions": 554395,
+    "reach": 419854,
+    "engagement": 5842
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 12,
+    "platform": "Twitter",
+    "date": "2024-03-05",
+    "impressions": 183891,
+    "reach": 301444,
+    "engagement": 47042
+  },
+  {
+    "customer_id": 32,
+    "campaign_id": 12,
+    "platform": "Instagram",
+    "date": "2024-04-09",
+    "impressions": 62200,
+    "reach": 316240,
+    "engagement": 14212
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 18,
+    "platform": "Instagram",
+    "date": "2024-07-06",
+    "impressions": 13306,
+    "reach": 299270,
+    "engagement": 43874
+  },
+  {
+    "customer_id": 11,
+    "campaign_id": 5,
+    "platform": "TikTok",
+    "date": "2024-02-12",
+    "impressions": 623709,
+    "reach": 188759,
+    "engagement": 42844
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 9,
+    "platform": "TikTok",
+    "date": "2024-06-07",
+    "impressions": 711859,
+    "reach": 345931,
+    "engagement": 23170
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 19,
+    "platform": "Facebook",
+    "date": "2024-09-19",
+    "impressions": 407242,
+    "reach": 186304,
+    "engagement": 17624
+  },
+  {
+    "customer_id": 18,
+    "campaign_id": 11,
+    "platform": "Instagram",
+    "date": "2024-04-06",
+    "impressions": 213378,
+    "reach": 350446,
+    "engagement": 8800
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 15,
+    "platform": "Instagram",
+    "date": "2024-04-01",
+    "impressions": 988456,
+    "reach": 146121,
+    "engagement": 46306
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 1,
+    "platform": "TikTok",
+    "date": "2024-10-14",
+    "impressions": 767433,
+    "reach": 447294,
+    "engagement": 18287
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-11-24",
+    "impressions": 624811,
+    "reach": 403486,
+    "engagement": 19494
+  },
+  {
+    "customer_id": 79,
+    "campaign_id": 11,
+    "platform": "Instagram",
+    "date": "2024-03-01",
+    "impressions": 375409,
+    "reach": 112893,
+    "engagement": 24784
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 14,
+    "platform": "Twitter",
+    "date": "2024-03-26",
+    "impressions": 857727,
+    "reach": 290414,
+    "engagement": 11105
+  },
+  {
+    "customer_id": 38,
+    "campaign_id": 2,
+    "platform": "Facebook",
+    "date": "2024-02-26",
+    "impressions": 351025,
+    "reach": 206413,
+    "engagement": 48704
+  },
+  {
+    "customer_id": 24,
+    "campaign_id": 1,
+    "platform": "Instagram",
+    "date": "2024-09-27",
+    "impressions": 391545,
+    "reach": 339104,
+    "engagement": 41446
+  },
+  {
+    "customer_id": 83,
+    "campaign_id": 12,
+    "platform": "TikTok",
+    "date": "2024-02-06",
+    "impressions": 174301,
+    "reach": 153811,
+    "engagement": 27070
+  },
+  {
+    "customer_id": 12,
+    "campaign_id": 12,
+    "platform": "Twitter",
+    "date": "2024-09-30",
+    "impressions": 401506,
+    "reach": 407610,
+    "engagement": 4002
+  },
+  {
+    "customer_id": 3,
+    "campaign_id": 18,
+    "platform": "Instagram",
+    "date": "2024-04-30",
+    "impressions": 275208,
+    "reach": 430238,
+    "engagement": 3009
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 9,
+    "platform": "TikTok",
+    "date": "2024-11-28",
+    "impressions": 464101,
+    "reach": 374743,
+    "engagement": 43500
+  },
+  {
+    "customer_id": 15,
+    "campaign_id": 19,
+    "platform": "Facebook",
+    "date": "2024-11-30",
+    "impressions": 968879,
+    "reach": 50152,
+    "engagement": 31499
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 8,
+    "platform": "TikTok",
+    "date": "2024-04-14",
+    "impressions": 631968,
+    "reach": 405257,
+    "engagement": 8567
+  },
+  {
+    "customer_id": 4,
+    "campaign_id": 11,
+    "platform": "TikTok",
+    "date": "2024-12-11",
+    "impressions": 224109,
+    "reach": 319444,
+    "engagement": 16660
+  },
+  {
+    "customer_id": 48,
+    "campaign_id": 7,
+    "platform": "Facebook",
+    "date": "2024-06-16",
+    "impressions": 272572,
+    "reach": 381127,
+    "engagement": 21406
+  },
+  {
+    "customer_id": 9,
+    "campaign_id": 9,
+    "platform": "TikTok",
+    "date": "2024-05-24",
+    "impressions": 187949,
+    "reach": 33461,
+    "engagement": 11366
+  },
+  {
+    "customer_id": 59,
+    "campaign_id": 20,
+    "platform": "Twitter",
+    "date": "2024-07-01",
+    "impressions": 521336,
+    "reach": 74743,
+    "engagement": 30956
+  },
+  {
+    "customer_id": 93,
+    "campaign_id": 19,
+    "platform": "TikTok",
+    "date": "2024-09-27",
+    "impressions": 394728,
+    "reach": 490054,
+    "engagement": 45861
+  },
+  {
+    "customer_id": 1,
+    "campaign_id": 14,
+    "platform": "Facebook",
+    "date": "2025-01-04",
+    "impressions": 879786,
+    "reach": 489547,
+    "engagement": 29125
+  },
+  {
+    "customer_id": 65,
+    "campaign_id": 6,
+    "platform": "LinkedIn",
+    "date": "2024-02-13",
+    "impressions": 776894,
+    "reach": 368808,
+    "engagement": 6031
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 20,
+    "platform": "LinkedIn",
+    "date": "2024-09-14",
+    "impressions": 822308,
+    "reach": 334312,
+    "engagement": 33815
+  },
+  {
+    "customer_id": 9,
+    "campaign_id": 3,
+    "platform": "Twitter",
+    "date": "2024-08-04",
+    "impressions": 504818,
+    "reach": 191916,
+    "engagement": 436
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 4,
+    "platform": "LinkedIn",
+    "date": "2024-01-17",
+    "impressions": 807453,
+    "reach": 475820,
+    "engagement": 49591
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 17,
+    "platform": "TikTok",
+    "date": "2024-08-23",
+    "impressions": 158875,
+    "reach": 465399,
+    "engagement": 45648
+  },
+  {
+    "customer_id": 3,
+    "campaign_id": 17,
+    "platform": "LinkedIn",
+    "date": "2024-07-29",
+    "impressions": 866742,
+    "reach": 381714,
+    "engagement": 33132
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 2,
+    "platform": "LinkedIn",
+    "date": "2024-07-02",
+    "impressions": 305044,
+    "reach": 214610,
+    "engagement": 33501
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 7,
+    "platform": "LinkedIn",
+    "date": "2024-04-01",
+    "impressions": 745608,
+    "reach": 146469,
+    "engagement": 38309
+  },
+  {
+    "customer_id": 61,
+    "campaign_id": 5,
+    "platform": "TikTok",
+    "date": "2024-03-21",
+    "impressions": 634705,
+    "reach": 339336,
+    "engagement": 26402
+  },
+  {
+    "customer_id": 81,
+    "campaign_id": 3,
+    "platform": "Twitter",
+    "date": "2024-09-05",
+    "impressions": 788570,
+    "reach": 422795,
+    "engagement": 46899
+  },
+  {
+    "customer_id": 65,
+    "campaign_id": 4,
+    "platform": "Instagram",
+    "date": "2024-10-20",
+    "impressions": 935226,
+    "reach": 431008,
+    "engagement": 27856
+  },
+  {
+    "customer_id": 95,
+    "campaign_id": 11,
+    "platform": "Instagram",
+    "date": "2024-06-14",
+    "impressions": 62903,
+    "reach": 415316,
+    "engagement": 6208
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 20,
+    "platform": "Instagram",
+    "date": "2024-01-27",
+    "impressions": 563910,
+    "reach": 322652,
+    "engagement": 43952
+  },
+  {
+    "customer_id": 26,
+    "campaign_id": 15,
+    "platform": "Instagram",
+    "date": "2024-10-06",
+    "impressions": 659102,
+    "reach": 71255,
+    "engagement": 6021
+  },
+  {
+    "customer_id": 8,
+    "campaign_id": 4,
+    "platform": "Facebook",
+    "date": "2024-11-11",
+    "impressions": 24297,
+    "reach": 221077,
+    "engagement": 24841
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 8,
+    "platform": "LinkedIn",
+    "date": "2024-10-14",
+    "impressions": 76859,
+    "reach": 138570,
+    "engagement": 30789
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 8,
+    "platform": "Instagram",
+    "date": "2024-12-17",
+    "impressions": 900798,
+    "reach": 211801,
+    "engagement": 7044
+  },
+  {
+    "customer_id": 4,
+    "campaign_id": 20,
+    "platform": "Twitter",
+    "date": "2024-01-19",
+    "impressions": 840512,
+    "reach": 268241,
+    "engagement": 45970
+  },
+  {
+    "customer_id": 76,
+    "campaign_id": 20,
+    "platform": "Instagram",
+    "date": "2024-05-30",
+    "impressions": 863588,
+    "reach": 413744,
+    "engagement": 37059
+  },
+  {
+    "customer_id": 11,
+    "campaign_id": 16,
+    "platform": "Twitter",
+    "date": "2024-09-27",
+    "impressions": 203251,
+    "reach": 87878,
+    "engagement": 22605
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 17,
+    "platform": "Instagram",
+    "date": "2024-07-27",
+    "impressions": 717873,
+    "reach": 147695,
+    "engagement": 5140
+  },
+  {
+    "customer_id": 31,
+    "campaign_id": 20,
+    "platform": "TikTok",
+    "date": "2024-05-26",
+    "impressions": 173638,
+    "reach": 107534,
+    "engagement": 43578
+  },
+  {
+    "customer_id": 34,
+    "campaign_id": 10,
+    "platform": "Twitter",
+    "date": "2024-07-06",
+    "impressions": 755094,
+    "reach": 454449,
+    "engagement": 21506
+  },
+  {
+    "customer_id": 44,
+    "campaign_id": 14,
+    "platform": "Facebook",
+    "date": "2024-05-06",
+    "impressions": 702206,
+    "reach": 281990,
+    "engagement": 43480
+  },
+  {
+    "customer_id": 7,
+    "campaign_id": 3,
+    "platform": "Twitter",
+    "date": "2025-01-09",
+    "impressions": 382747,
+    "reach": 144448,
+    "engagement": 29772
+  },
+  {
+    "customer_id": 29,
+    "campaign_id": 15,
+    "platform": "Facebook",
+    "date": "2024-10-29",
+    "impressions": 417614,
+    "reach": 70464,
+    "engagement": 32433
+  },
+  {
+    "customer_id": 71,
+    "campaign_id": 9,
+    "platform": "Instagram",
+    "date": "2024-06-19",
+    "impressions": 163104,
+    "reach": 452315,
+    "engagement": 33665
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 19,
+    "platform": "Twitter",
+    "date": "2024-01-25",
+    "impressions": 425562,
+    "reach": 182715,
+    "engagement": 29784
+  },
+  {
+    "customer_id": 17,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2024-06-08",
+    "impressions": 63159,
+    "reach": 465822,
+    "engagement": 14632
+  },
+  {
+    "customer_id": 13,
+    "campaign_id": 5,
+    "platform": "Facebook",
+    "date": "2024-02-22",
+    "impressions": 142056,
+    "reach": 483961,
+    "engagement": 49875
+  },
+  {
+    "customer_id": 64,
+    "campaign_id": 10,
+    "platform": "Twitter",
+    "date": "2024-10-08",
+    "impressions": 870085,
+    "reach": 168620,
+    "engagement": 31524
+  },
+  {
+    "customer_id": 32,
+    "campaign_id": 6,
+    "platform": "Twitter",
+    "date": "2024-02-25",
+    "impressions": 694606,
+    "reach": 358037,
+    "engagement": 37934
+  },
+  {
+    "customer_id": 48,
+    "campaign_id": 1,
+    "platform": "Twitter",
+    "date": "2024-06-21",
+    "impressions": 411374,
+    "reach": 180787,
+    "engagement": 24715
+  },
+  {
+    "customer_id": 61,
+    "campaign_id": 12,
+    "platform": "Facebook",
+    "date": "2024-12-08",
+    "impressions": 542012,
+    "reach": 79286,
+    "engagement": 16313
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 20,
+    "platform": "Twitter",
+    "date": "2024-10-29",
+    "impressions": 145212,
+    "reach": 470012,
+    "engagement": 690
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 9,
+    "platform": "Twitter",
+    "date": "2024-01-17",
+    "impressions": 78150,
+    "reach": 324883,
+    "engagement": 31134
+  },
+  {
+    "customer_id": 77,
+    "campaign_id": 15,
+    "platform": "LinkedIn",
+    "date": "2024-12-18",
+    "impressions": 33739,
+    "reach": 283159,
+    "engagement": 1714
+  },
+  {
+    "customer_id": 32,
+    "campaign_id": 12,
+    "platform": "TikTok",
+    "date": "2024-02-07",
+    "impressions": 692719,
+    "reach": 29707,
+    "engagement": 249
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 17,
+    "platform": "TikTok",
+    "date": "2024-12-20",
+    "impressions": 242471,
+    "reach": 360525,
+    "engagement": 24180
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 4,
+    "platform": "Instagram",
+    "date": "2024-06-15",
+    "impressions": 625456,
+    "reach": 366739,
+    "engagement": 16884
+  },
+  {
+    "customer_id": 85,
+    "campaign_id": 14,
+    "platform": "Twitter",
+    "date": "2024-05-12",
+    "impressions": 165154,
+    "reach": 271457,
+    "engagement": 26497
+  },
+  {
+    "customer_id": 92,
+    "campaign_id": 1,
+    "platform": "LinkedIn",
+    "date": "2024-12-21",
+    "impressions": 359298,
+    "reach": 280871,
+    "engagement": 24581
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 4,
+    "platform": "TikTok",
+    "date": "2024-05-06",
+    "impressions": 250381,
+    "reach": 145872,
+    "engagement": 29522
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2024-06-10",
+    "impressions": 312257,
+    "reach": 5024,
+    "engagement": 41865
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 20,
+    "platform": "Facebook",
+    "date": "2024-12-09",
+    "impressions": 563246,
+    "reach": 279015,
+    "engagement": 396
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 13,
+    "platform": "Instagram",
+    "date": "2024-03-03",
+    "impressions": 410263,
+    "reach": 369459,
+    "engagement": 31144
+  },
+  {
+    "customer_id": 60,
+    "campaign_id": 18,
+    "platform": "LinkedIn",
+    "date": "2024-12-10",
+    "impressions": 501099,
+    "reach": 87662,
+    "engagement": 10378
+  },
+  {
+    "customer_id": 69,
+    "campaign_id": 17,
+    "platform": "Twitter",
+    "date": "2024-12-19",
+    "impressions": 228610,
+    "reach": 70137,
+    "engagement": 37743
+  },
+  {
+    "customer_id": 18,
+    "campaign_id": 13,
+    "platform": "TikTok",
+    "date": "2024-04-02",
+    "impressions": 290500,
+    "reach": 381396,
+    "engagement": 19893
+  },
+  {
+    "customer_id": 69,
+    "campaign_id": 9,
+    "platform": "Instagram",
+    "date": "2024-04-17",
+    "impressions": 299622,
+    "reach": 450783,
+    "engagement": 27722
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 6,
+    "platform": "Instagram",
+    "date": "2024-05-08",
+    "impressions": 683465,
+    "reach": 249217,
+    "engagement": 13505
+  },
+  {
+    "customer_id": 10,
+    "campaign_id": 19,
+    "platform": "TikTok",
+    "date": "2024-05-08",
+    "impressions": 208857,
+    "reach": 497802,
+    "engagement": 7085
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 14,
+    "platform": "TikTok",
+    "date": "2024-06-06",
+    "impressions": 172896,
+    "reach": 322033,
+    "engagement": 408
+  },
+  {
+    "customer_id": 77,
+    "campaign_id": 20,
+    "platform": "Twitter",
+    "date": "2024-04-19",
+    "impressions": 846463,
+    "reach": 72520,
+    "engagement": 22462
+  },
+  {
+    "customer_id": 10,
+    "campaign_id": 18,
+    "platform": "Facebook",
+    "date": "2025-01-07",
+    "impressions": 709318,
+    "reach": 457242,
+    "engagement": 12521
+  },
+  {
+    "customer_id": 89,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-11-15",
+    "impressions": 302918,
+    "reach": 98637,
+    "engagement": 2438
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 3,
+    "platform": "TikTok",
+    "date": "2024-02-20",
+    "impressions": 409539,
+    "reach": 428186,
+    "engagement": 1381
+  },
+  {
+    "customer_id": 24,
+    "campaign_id": 20,
+    "platform": "Twitter",
+    "date": "2024-10-28",
+    "impressions": 443211,
+    "reach": 403989,
+    "engagement": 39479
+  },
+  {
+    "customer_id": 44,
+    "campaign_id": 14,
+    "platform": "TikTok",
+    "date": "2024-08-10",
+    "impressions": 922461,
+    "reach": 111076,
+    "engagement": 15804
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 10,
+    "platform": "TikTok",
+    "date": "2024-10-22",
+    "impressions": 613702,
+    "reach": 337213,
+    "engagement": 31920
+  },
+  {
+    "customer_id": 45,
+    "campaign_id": 15,
+    "platform": "Twitter",
+    "date": "2024-11-15",
+    "impressions": 909068,
+    "reach": 491335,
+    "engagement": 17695
+  },
+  {
+    "customer_id": 18,
+    "campaign_id": 20,
+    "platform": "Instagram",
+    "date": "2024-06-09",
+    "impressions": 708230,
+    "reach": 100569,
+    "engagement": 17949
+  },
+  {
+    "customer_id": 63,
+    "campaign_id": 6,
+    "platform": "LinkedIn",
+    "date": "2024-11-08",
+    "impressions": 314340,
+    "reach": 63214,
+    "engagement": 20807
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 4,
+    "platform": "Facebook",
+    "date": "2024-06-26",
+    "impressions": 482629,
+    "reach": 80144,
+    "engagement": 22771
+  },
+  {
+    "customer_id": 94,
+    "campaign_id": 19,
+    "platform": "LinkedIn",
+    "date": "2024-10-02",
+    "impressions": 811094,
+    "reach": 72746,
+    "engagement": 10639
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 5,
+    "platform": "LinkedIn",
+    "date": "2024-11-15",
+    "impressions": 253283,
+    "reach": 117571,
+    "engagement": 31740
+  },
+  {
+    "customer_id": 99,
+    "campaign_id": 14,
+    "platform": "Twitter",
+    "date": "2025-01-12",
+    "impressions": 367043,
+    "reach": 418816,
+    "engagement": 48320
+  },
+  {
+    "customer_id": 12,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2025-01-05",
+    "impressions": 539386,
+    "reach": 140351,
+    "engagement": 22303
+  },
+  {
+    "customer_id": 29,
+    "campaign_id": 5,
+    "platform": "TikTok",
+    "date": "2024-01-23",
+    "impressions": 534846,
+    "reach": 195755,
+    "engagement": 36707
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 17,
+    "platform": "TikTok",
+    "date": "2024-07-06",
+    "impressions": 475439,
+    "reach": 314894,
+    "engagement": 7505
+  },
+  {
+    "customer_id": 9,
+    "campaign_id": 20,
+    "platform": "TikTok",
+    "date": "2024-07-17",
+    "impressions": 149027,
+    "reach": 395426,
+    "engagement": 29706
+  },
+  {
+    "customer_id": 1,
+    "campaign_id": 14,
+    "platform": "Instagram",
+    "date": "2024-10-24",
+    "impressions": 963124,
+    "reach": 159642,
+    "engagement": 16504
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 4,
+    "platform": "Instagram",
+    "date": "2024-12-22",
+    "impressions": 711590,
+    "reach": 404759,
+    "engagement": 28033
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 14,
+    "platform": "LinkedIn",
+    "date": "2024-11-15",
+    "impressions": 373626,
+    "reach": 434745,
+    "engagement": 17725
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 16,
+    "platform": "TikTok",
+    "date": "2024-09-09",
+    "impressions": 22511,
+    "reach": 439165,
+    "engagement": 10321
+  },
+  {
+    "customer_id": 43,
+    "campaign_id": 20,
+    "platform": "Instagram",
+    "date": "2024-09-27",
+    "impressions": 739361,
+    "reach": 396973,
+    "engagement": 28525
+  },
+  {
+    "customer_id": 3,
+    "campaign_id": 14,
+    "platform": "Twitter",
+    "date": "2024-01-28",
+    "impressions": 854470,
+    "reach": 15060,
+    "engagement": 40901
+  },
+  {
+    "customer_id": 12,
+    "campaign_id": 9,
+    "platform": "Twitter",
+    "date": "2024-02-27",
+    "impressions": 784662,
+    "reach": 91717,
+    "engagement": 2226
+  },
+  {
+    "customer_id": 2,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-05-26",
+    "impressions": 248347,
+    "reach": 360887,
+    "engagement": 35763
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 3,
+    "platform": "LinkedIn",
+    "date": "2024-03-10",
+    "impressions": 962089,
+    "reach": 380632,
+    "engagement": 48117
+  },
+  {
+    "customer_id": 9,
+    "campaign_id": 6,
+    "platform": "Twitter",
+    "date": "2024-04-15",
+    "impressions": 727245,
+    "reach": 109465,
+    "engagement": 7336
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 7,
+    "platform": "TikTok",
+    "date": "2024-03-12",
+    "impressions": 574499,
+    "reach": 46776,
+    "engagement": 17278
+  },
+  {
+    "customer_id": 98,
+    "campaign_id": 7,
+    "platform": "Twitter",
+    "date": "2024-03-04",
+    "impressions": 159080,
+    "reach": 60213,
+    "engagement": 25835
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-05-30",
+    "impressions": 336273,
+    "reach": 56801,
+    "engagement": 49798
+  },
+  {
+    "customer_id": 5,
+    "campaign_id": 17,
+    "platform": "Instagram",
+    "date": "2024-07-16",
+    "impressions": 568988,
+    "reach": 58589,
+    "engagement": 1401
+  },
+  {
+    "customer_id": 27,
+    "campaign_id": 18,
+    "platform": "TikTok",
+    "date": "2025-01-11",
+    "impressions": 860090,
+    "reach": 325388,
+    "engagement": 25340
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 1,
+    "platform": "Facebook",
+    "date": "2024-03-05",
+    "impressions": 694132,
+    "reach": 453067,
+    "engagement": 48769
+  },
+  {
+    "customer_id": 95,
+    "campaign_id": 6,
+    "platform": "TikTok",
+    "date": "2024-06-21",
+    "impressions": 548903,
+    "reach": 262862,
+    "engagement": 29824
+  },
+  {
+    "customer_id": 14,
+    "campaign_id": 18,
+    "platform": "TikTok",
+    "date": "2024-03-03",
+    "impressions": 609700,
+    "reach": 65436,
+    "engagement": 23264
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 4,
+    "platform": "LinkedIn",
+    "date": "2024-11-19",
+    "impressions": 820396,
+    "reach": 205233,
+    "engagement": 2584
+  },
+  {
+    "customer_id": 15,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-12-01",
+    "impressions": 72193,
+    "reach": 484306,
+    "engagement": 13091
+  },
+  {
+    "customer_id": 96,
+    "campaign_id": 15,
+    "platform": "LinkedIn",
+    "date": "2024-08-04",
+    "impressions": 66272,
+    "reach": 254438,
+    "engagement": 46925
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 4,
+    "platform": "LinkedIn",
+    "date": "2024-04-28",
+    "impressions": 724493,
+    "reach": 63843,
+    "engagement": 16293
+  },
+  {
+    "customer_id": 11,
+    "campaign_id": 2,
+    "platform": "LinkedIn",
+    "date": "2024-03-14",
+    "impressions": 764860,
+    "reach": 407796,
+    "engagement": 4958
+  },
+  {
+    "customer_id": 84,
+    "campaign_id": 7,
+    "platform": "Facebook",
+    "date": "2025-01-08",
+    "impressions": 494121,
+    "reach": 478390,
+    "engagement": 46857
+  },
+  {
+    "customer_id": 4,
+    "campaign_id": 17,
+    "platform": "Facebook",
+    "date": "2024-05-29",
+    "impressions": 830573,
+    "reach": 422697,
+    "engagement": 5244
+  },
+  {
+    "customer_id": 22,
+    "campaign_id": 17,
+    "platform": "Facebook",
+    "date": "2024-07-14",
+    "impressions": 151087,
+    "reach": 264959,
+    "engagement": 41688
+  },
+  {
+    "customer_id": 76,
+    "campaign_id": 15,
+    "platform": "LinkedIn",
+    "date": "2024-05-04",
+    "impressions": 560806,
+    "reach": 217956,
+    "engagement": 32501
+  },
+  {
+    "customer_id": 7,
+    "campaign_id": 11,
+    "platform": "Twitter",
+    "date": "2024-07-01",
+    "impressions": 308089,
+    "reach": 16097,
+    "engagement": 16222
+  },
+  {
+    "customer_id": 5,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-04-16",
+    "impressions": 504171,
+    "reach": 441947,
+    "engagement": 41028
+  },
+  {
+    "customer_id": 56,
+    "campaign_id": 18,
+    "platform": "LinkedIn",
+    "date": "2024-07-20",
+    "impressions": 183442,
+    "reach": 285123,
+    "engagement": 39373
+  },
+  {
+    "customer_id": 74,
+    "campaign_id": 16,
+    "platform": "Facebook",
+    "date": "2024-02-03",
+    "impressions": 423817,
+    "reach": 37116,
+    "engagement": 25710
+  },
+  {
+    "customer_id": 66,
+    "campaign_id": 5,
+    "platform": "LinkedIn",
+    "date": "2024-10-26",
+    "impressions": 281339,
+    "reach": 312331,
+    "engagement": 48166
+  },
+  {
+    "customer_id": 88,
+    "campaign_id": 15,
+    "platform": "Instagram",
+    "date": "2024-05-06",
+    "impressions": 844332,
+    "reach": 154042,
+    "engagement": 25145
+  },
+  {
+    "customer_id": 21,
+    "campaign_id": 6,
+    "platform": "TikTok",
+    "date": "2024-10-24",
+    "impressions": 61984,
+    "reach": 342292,
+    "engagement": 48871
+  },
+  {
+    "customer_id": 20,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-05-16",
+    "impressions": 798563,
+    "reach": 138718,
+    "engagement": 43253
+  },
+  {
+    "customer_id": 26,
+    "campaign_id": 2,
+    "platform": "Facebook",
+    "date": "2024-03-11",
+    "impressions": 183111,
+    "reach": 36216,
+    "engagement": 20211
+  },
+  {
+    "customer_id": 22,
+    "campaign_id": 4,
+    "platform": "LinkedIn",
+    "date": "2024-01-16",
+    "impressions": 820466,
+    "reach": 172414,
+    "engagement": 14782
+  },
+  {
+    "customer_id": 5,
+    "campaign_id": 11,
+    "platform": "Instagram",
+    "date": "2024-04-07",
+    "impressions": 478314,
+    "reach": 60402,
+    "engagement": 40545
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2024-06-19",
+    "impressions": 540887,
+    "reach": 364956,
+    "engagement": 47650
+  },
+  {
+    "customer_id": 15,
+    "campaign_id": 14,
+    "platform": "LinkedIn",
+    "date": "2024-08-06",
+    "impressions": 885540,
+    "reach": 233346,
+    "engagement": 9435
+  },
+  {
+    "customer_id": 49,
+    "campaign_id": 16,
+    "platform": "TikTok",
+    "date": "2024-11-09",
+    "impressions": 957516,
+    "reach": 448022,
+    "engagement": 24568
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 2,
+    "platform": "Facebook",
+    "date": "2024-02-10",
+    "impressions": 507516,
+    "reach": 477075,
+    "engagement": 11420
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 10,
+    "platform": "TikTok",
+    "date": "2024-07-23",
+    "impressions": 74202,
+    "reach": 247799,
+    "engagement": 48442
+  },
+  {
+    "customer_id": 30,
+    "campaign_id": 15,
+    "platform": "Twitter",
+    "date": "2024-05-25",
+    "impressions": 288571,
+    "reach": 408566,
+    "engagement": 31579
+  },
+  {
+    "customer_id": 73,
+    "campaign_id": 5,
+    "platform": "Twitter",
+    "date": "2024-10-01",
+    "impressions": 220947,
+    "reach": 16184,
+    "engagement": 19629
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 11,
+    "platform": "Twitter",
+    "date": "2024-02-20",
+    "impressions": 324163,
+    "reach": 353680,
+    "engagement": 34246
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 20,
+    "platform": "Facebook",
+    "date": "2024-03-06",
+    "impressions": 801511,
+    "reach": 365918,
+    "engagement": 39586
+  },
+  {
+    "customer_id": 98,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2024-11-07",
+    "impressions": 30406,
+    "reach": 180631,
+    "engagement": 35802
+  },
+  {
+    "customer_id": 87,
+    "campaign_id": 10,
+    "platform": "LinkedIn",
+    "date": "2024-04-23",
+    "impressions": 112236,
+    "reach": 233936,
+    "engagement": 7658
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 12,
+    "platform": "Twitter",
+    "date": "2024-08-21",
+    "impressions": 759722,
+    "reach": 384501,
+    "engagement": 39991
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 14,
+    "platform": "TikTok",
+    "date": "2024-05-14",
+    "impressions": 657204,
+    "reach": 187429,
+    "engagement": 14134
+  },
+  {
+    "customer_id": 37,
+    "campaign_id": 19,
+    "platform": "Twitter",
+    "date": "2024-11-25",
+    "impressions": 122701,
+    "reach": 274288,
+    "engagement": 488
+  },
+  {
+    "customer_id": 88,
+    "campaign_id": 12,
+    "platform": "TikTok",
+    "date": "2024-09-09",
+    "impressions": 169575,
+    "reach": 2708,
+    "engagement": 47457
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 4,
+    "platform": "Instagram",
+    "date": "2024-02-22",
+    "impressions": 469160,
+    "reach": 222357,
+    "engagement": 15134
+  },
+  {
+    "customer_id": 46,
+    "campaign_id": 4,
+    "platform": "Instagram",
+    "date": "2024-07-07",
+    "impressions": 413723,
+    "reach": 452776,
+    "engagement": 6208
+  },
+  {
+    "customer_id": 56,
+    "campaign_id": 17,
+    "platform": "Instagram",
+    "date": "2024-09-18",
+    "impressions": 246952,
+    "reach": 382687,
+    "engagement": 45547
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-07-22",
+    "impressions": 498755,
+    "reach": 158502,
+    "engagement": 32497
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 6,
+    "platform": "Facebook",
+    "date": "2024-03-01",
+    "impressions": 779998,
+    "reach": 406806,
+    "engagement": 4613
+  },
+  {
+    "customer_id": 58,
+    "campaign_id": 15,
+    "platform": "Instagram",
+    "date": "2024-10-18",
+    "impressions": 823659,
+    "reach": 202077,
+    "engagement": 33619
+  },
+  {
+    "customer_id": 15,
+    "campaign_id": 20,
+    "platform": "Instagram",
+    "date": "2024-02-26",
+    "impressions": 686678,
+    "reach": 145950,
+    "engagement": 23059
+  },
+  {
+    "customer_id": 59,
+    "campaign_id": 17,
+    "platform": "LinkedIn",
+    "date": "2024-08-09",
+    "impressions": 799139,
+    "reach": 448602,
+    "engagement": 47133
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 1,
+    "platform": "Instagram",
+    "date": "2024-08-31",
+    "impressions": 677911,
+    "reach": 435370,
+    "engagement": 10908
+  },
+  {
+    "customer_id": 89,
+    "campaign_id": 19,
+    "platform": "Facebook",
+    "date": "2024-11-01",
+    "impressions": 712629,
+    "reach": 202716,
+    "engagement": 16910
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 9,
+    "platform": "LinkedIn",
+    "date": "2024-08-06",
+    "impressions": 284006,
+    "reach": 10068,
+    "engagement": 25000
+  },
+  {
+    "customer_id": 51,
+    "campaign_id": 2,
+    "platform": "Facebook",
+    "date": "2024-08-19",
+    "impressions": 111285,
+    "reach": 90243,
+    "engagement": 31701
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 11,
+    "platform": "LinkedIn",
+    "date": "2024-02-15",
+    "impressions": 585253,
+    "reach": 232240,
+    "engagement": 16617
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 1,
+    "platform": "TikTok",
+    "date": "2024-11-14",
+    "impressions": 404321,
+    "reach": 383362,
+    "engagement": 14224
+  },
+  {
+    "customer_id": 93,
+    "campaign_id": 10,
+    "platform": "TikTok",
+    "date": "2024-01-24",
+    "impressions": 590002,
+    "reach": 316214,
+    "engagement": 16812
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 8,
+    "platform": "Instagram",
+    "date": "2024-05-27",
+    "impressions": 124811,
+    "reach": 169561,
+    "engagement": 19249
+  },
+  {
+    "customer_id": 32,
+    "campaign_id": 15,
+    "platform": "Facebook",
+    "date": "2024-01-20",
+    "impressions": 316550,
+    "reach": 81779,
+    "engagement": 15916
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 15,
+    "platform": "TikTok",
+    "date": "2024-07-05",
+    "impressions": 37223,
+    "reach": 392573,
+    "engagement": 2633
+  },
+  {
+    "customer_id": 55,
+    "campaign_id": 11,
+    "platform": "LinkedIn",
+    "date": "2024-10-15",
+    "impressions": 610354,
+    "reach": 407941,
+    "engagement": 1587
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 20,
+    "platform": "Instagram",
+    "date": "2024-11-27",
+    "impressions": 26551,
+    "reach": 160155,
+    "engagement": 5452
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 11,
+    "platform": "LinkedIn",
+    "date": "2024-03-02",
+    "impressions": 339403,
+    "reach": 67452,
+    "engagement": 45029
+  },
+  {
+    "customer_id": 84,
+    "campaign_id": 16,
+    "platform": "Facebook",
+    "date": "2024-12-10",
+    "impressions": 509252,
+    "reach": 80721,
+    "engagement": 27942
+  },
+  {
+    "customer_id": 78,
+    "campaign_id": 13,
+    "platform": "Instagram",
+    "date": "2024-09-02",
+    "impressions": 672816,
+    "reach": 99692,
+    "engagement": 4166
+  },
+  {
+    "customer_id": 16,
+    "campaign_id": 17,
+    "platform": "Twitter",
+    "date": "2024-12-07",
+    "impressions": 143705,
+    "reach": 490526,
+    "engagement": 3444
+  },
+  {
+    "customer_id": 1,
+    "campaign_id": 16,
+    "platform": "TikTok",
+    "date": "2024-05-05",
+    "impressions": 783257,
+    "reach": 124183,
+    "engagement": 28880
+  },
+  {
+    "customer_id": 21,
+    "campaign_id": 7,
+    "platform": "Facebook",
+    "date": "2024-06-21",
+    "impressions": 865134,
+    "reach": 409290,
+    "engagement": 14916
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-04-15",
+    "impressions": 828913,
+    "reach": 69902,
+    "engagement": 2213
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 15,
+    "platform": "Facebook",
+    "date": "2024-08-08",
+    "impressions": 760619,
+    "reach": 299366,
+    "engagement": 27010
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 20,
+    "platform": "Facebook",
+    "date": "2024-06-05",
+    "impressions": 394117,
+    "reach": 349098,
+    "engagement": 5639
+  },
+  {
+    "customer_id": 12,
+    "campaign_id": 15,
+    "platform": "Instagram",
+    "date": "2024-11-21",
+    "impressions": 479691,
+    "reach": 282645,
+    "engagement": 28856
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 2,
+    "platform": "Twitter",
+    "date": "2024-07-06",
+    "impressions": 438954,
+    "reach": 247957,
+    "engagement": 12652
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 17,
+    "platform": "TikTok",
+    "date": "2024-11-26",
+    "impressions": 105600,
+    "reach": 377007,
+    "engagement": 21120
+  },
+  {
+    "customer_id": 98,
+    "campaign_id": 16,
+    "platform": "Twitter",
+    "date": "2024-10-17",
+    "impressions": 697626,
+    "reach": 32526,
+    "engagement": 13271
+  },
+  {
+    "customer_id": 53,
+    "campaign_id": 6,
+    "platform": "Twitter",
+    "date": "2024-02-21",
+    "impressions": 471755,
+    "reach": 333068,
+    "engagement": 26842
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 17,
+    "platform": "Twitter",
+    "date": "2024-02-18",
+    "impressions": 503092,
+    "reach": 455584,
+    "engagement": 17524
+  },
+  {
+    "customer_id": 97,
+    "campaign_id": 6,
+    "platform": "Instagram",
+    "date": "2024-04-27",
+    "impressions": 78865,
+    "reach": 420912,
+    "engagement": 28819
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 20,
+    "platform": "LinkedIn",
+    "date": "2024-04-12",
+    "impressions": 469313,
+    "reach": 199736,
+    "engagement": 9679
+  },
+  {
+    "customer_id": 80,
+    "campaign_id": 8,
+    "platform": "TikTok",
+    "date": "2024-05-11",
+    "impressions": 156193,
+    "reach": 395895,
+    "engagement": 12774
+  },
+  {
+    "customer_id": 85,
+    "campaign_id": 12,
+    "platform": "TikTok",
+    "date": "2024-03-05",
+    "impressions": 442047,
+    "reach": 295005,
+    "engagement": 15818
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 17,
+    "platform": "Facebook",
+    "date": "2024-10-20",
+    "impressions": 440119,
+    "reach": 77594,
+    "engagement": 6204
+  },
+  {
+    "customer_id": 48,
+    "campaign_id": 4,
+    "platform": "LinkedIn",
+    "date": "2024-05-21",
+    "impressions": 483459,
+    "reach": 485785,
+    "engagement": 6669
+  },
+  {
+    "customer_id": 56,
+    "campaign_id": 1,
+    "platform": "Twitter",
+    "date": "2024-07-25",
+    "impressions": 579864,
+    "reach": 334789,
+    "engagement": 12795
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 19,
+    "platform": "LinkedIn",
+    "date": "2024-08-31",
+    "impressions": 417552,
+    "reach": 353064,
+    "engagement": 27953
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 13,
+    "platform": "TikTok",
+    "date": "2024-04-30",
+    "impressions": 73111,
+    "reach": 449178,
+    "engagement": 10713
+  },
+  {
+    "customer_id": 58,
+    "campaign_id": 18,
+    "platform": "Twitter",
+    "date": "2024-10-22",
+    "impressions": 283085,
+    "reach": 344795,
+    "engagement": 13378
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 14,
+    "platform": "LinkedIn",
+    "date": "2024-06-21",
+    "impressions": 387083,
+    "reach": 1073,
+    "engagement": 8475
+  },
+  {
+    "customer_id": 88,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2024-10-19",
+    "impressions": 716012,
+    "reach": 235296,
+    "engagement": 352
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2025-01-11",
+    "impressions": 42383,
+    "reach": 280171,
+    "engagement": 20436
+  },
+  {
+    "customer_id": 51,
+    "campaign_id": 10,
+    "platform": "Instagram",
+    "date": "2024-06-03",
+    "impressions": 491629,
+    "reach": 241325,
+    "engagement": 14343
+  },
+  {
+    "customer_id": 30,
+    "campaign_id": 14,
+    "platform": "LinkedIn",
+    "date": "2024-12-29",
+    "impressions": 409916,
+    "reach": 482509,
+    "engagement": 7231
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 20,
+    "platform": "TikTok",
+    "date": "2024-05-31",
+    "impressions": 633909,
+    "reach": 385776,
+    "engagement": 46539
+  },
+  {
+    "customer_id": 100,
+    "campaign_id": 1,
+    "platform": "Instagram",
+    "date": "2024-09-10",
+    "impressions": 503139,
+    "reach": 241514,
+    "engagement": 17108
+  },
+  {
+    "customer_id": 31,
+    "campaign_id": 13,
+    "platform": "Twitter",
+    "date": "2024-05-27",
+    "impressions": 382183,
+    "reach": 92148,
+    "engagement": 31502
+  },
+  {
+    "customer_id": 4,
+    "campaign_id": 13,
+    "platform": "LinkedIn",
+    "date": "2024-04-08",
+    "impressions": 329778,
+    "reach": 251359,
+    "engagement": 41244
+  },
+  {
+    "customer_id": 57,
+    "campaign_id": 6,
+    "platform": "Instagram",
+    "date": "2024-07-07",
+    "impressions": 86669,
+    "reach": 62022,
+    "engagement": 23043
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 20,
+    "platform": "TikTok",
+    "date": "2024-07-16",
+    "impressions": 578730,
+    "reach": 69425,
+    "engagement": 19769
+  },
+  {
+    "customer_id": 36,
+    "campaign_id": 8,
+    "platform": "TikTok",
+    "date": "2024-05-16",
+    "impressions": 126100,
+    "reach": 470201,
+    "engagement": 935
+  },
+  {
+    "customer_id": 54,
+    "campaign_id": 17,
+    "platform": "LinkedIn",
+    "date": "2024-09-11",
+    "impressions": 838698,
+    "reach": 405735,
+    "engagement": 2024
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 14,
+    "platform": "LinkedIn",
+    "date": "2024-02-10",
+    "impressions": 398270,
+    "reach": 480190,
+    "engagement": 13742
+  },
+  {
+    "customer_id": 99,
+    "campaign_id": 5,
+    "platform": "Instagram",
+    "date": "2024-06-18",
+    "impressions": 7485,
+    "reach": 122346,
+    "engagement": 38690
+  },
+  {
+    "customer_id": 3,
+    "campaign_id": 5,
+    "platform": "Facebook",
+    "date": "2024-10-10",
+    "impressions": 110857,
+    "reach": 92999,
+    "engagement": 18296
+  },
+  {
+    "customer_id": 37,
+    "campaign_id": 15,
+    "platform": "TikTok",
+    "date": "2024-02-17",
+    "impressions": 667622,
+    "reach": 398772,
+    "engagement": 5999
+  },
+  {
+    "customer_id": 84,
+    "campaign_id": 8,
+    "platform": "LinkedIn",
+    "date": "2024-02-25",
+    "impressions": 895351,
+    "reach": 257181,
+    "engagement": 18294
+  },
+  {
+    "customer_id": 3,
+    "campaign_id": 3,
+    "platform": "LinkedIn",
+    "date": "2024-03-11",
+    "impressions": 755202,
+    "reach": 446160,
+    "engagement": 2849
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 2,
+    "platform": "TikTok",
+    "date": "2024-09-16",
+    "impressions": 114311,
+    "reach": 354877,
+    "engagement": 3170
+  },
+  {
+    "customer_id": 66,
+    "campaign_id": 17,
+    "platform": "Instagram",
+    "date": "2024-05-16",
+    "impressions": 968173,
+    "reach": 360548,
+    "engagement": 4455
+  },
+  {
+    "customer_id": 31,
+    "campaign_id": 13,
+    "platform": "LinkedIn",
+    "date": "2024-02-05",
+    "impressions": 289303,
+    "reach": 233978,
+    "engagement": 34194
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 12,
+    "platform": "LinkedIn",
+    "date": "2024-04-24",
+    "impressions": 792354,
+    "reach": 107215,
+    "engagement": 49327
+  },
+  {
+    "customer_id": 77,
+    "campaign_id": 11,
+    "platform": "TikTok",
+    "date": "2024-06-22",
+    "impressions": 503974,
+    "reach": 47557,
+    "engagement": 30064
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 18,
+    "platform": "TikTok",
+    "date": "2024-07-21",
+    "impressions": 510838,
+    "reach": 311521,
+    "engagement": 18758
+  },
+  {
+    "customer_id": 65,
+    "campaign_id": 13,
+    "platform": "Facebook",
+    "date": "2024-04-22",
+    "impressions": 788914,
+    "reach": 387751,
+    "engagement": 23558
+  },
+  {
+    "customer_id": 64,
+    "campaign_id": 15,
+    "platform": "Instagram",
+    "date": "2024-05-14",
+    "impressions": 752261,
+    "reach": 336556,
+    "engagement": 33611
+  },
+  {
+    "customer_id": 63,
+    "campaign_id": 3,
+    "platform": "LinkedIn",
+    "date": "2024-06-01",
+    "impressions": 654754,
+    "reach": 120038,
+    "engagement": 35532
+  },
+  {
+    "customer_id": 96,
+    "campaign_id": 15,
+    "platform": "Twitter",
+    "date": "2024-11-01",
+    "impressions": 437894,
+    "reach": 371893,
+    "engagement": 27839
+  },
+  {
+    "customer_id": 60,
+    "campaign_id": 14,
+    "platform": "TikTok",
+    "date": "2024-06-02",
+    "impressions": 632483,
+    "reach": 54793,
+    "engagement": 32286
+  },
+  {
+    "customer_id": 1,
+    "campaign_id": 4,
+    "platform": "Instagram",
+    "date": "2024-08-02",
+    "impressions": 987728,
+    "reach": 154115,
+    "engagement": 17609
+  },
+  {
+    "customer_id": 75,
+    "campaign_id": 13,
+    "platform": "Twitter",
+    "date": "2024-02-22",
+    "impressions": 30459,
+    "reach": 262254,
+    "engagement": 1223
+  },
+  {
+    "customer_id": 15,
+    "campaign_id": 15,
+    "platform": "Twitter",
+    "date": "2024-09-10",
+    "impressions": 522395,
+    "reach": 139992,
+    "engagement": 1465
+  },
+  {
+    "customer_id": 68,
+    "campaign_id": 14,
+    "platform": "LinkedIn",
+    "date": "2024-06-26",
+    "impressions": 193762,
+    "reach": 179051,
+    "engagement": 36939
+  },
+  {
+    "customer_id": 24,
+    "campaign_id": 2,
+    "platform": "LinkedIn",
+    "date": "2024-03-13",
+    "impressions": 419004,
+    "reach": 143021,
+    "engagement": 33796
+  },
+  {
+    "customer_id": 11,
+    "campaign_id": 12,
+    "platform": "Facebook",
+    "date": "2024-08-06",
+    "impressions": 386240,
+    "reach": 14653,
+    "engagement": 17857
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 5,
+    "platform": "Facebook",
+    "date": "2024-07-18",
+    "impressions": 265359,
+    "reach": 112292,
+    "engagement": 31003
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 10,
+    "platform": "Facebook",
+    "date": "2024-05-15",
+    "impressions": 314554,
+    "reach": 22688,
+    "engagement": 31270
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 10,
+    "platform": "Facebook",
+    "date": "2024-04-14",
+    "impressions": 908746,
+    "reach": 1861,
+    "engagement": 20359
+  },
+  {
+    "customer_id": 55,
+    "campaign_id": 5,
+    "platform": "Facebook",
+    "date": "2024-05-16",
+    "impressions": 396363,
+    "reach": 1370,
+    "engagement": 605
+  },
+  {
+    "customer_id": 26,
+    "campaign_id": 19,
+    "platform": "Facebook",
+    "date": "2024-01-16",
+    "impressions": 305930,
+    "reach": 401267,
+    "engagement": 24628
+  },
+  {
+    "customer_id": 25,
+    "campaign_id": 7,
+    "platform": "Twitter",
+    "date": "2024-10-12",
+    "impressions": 656260,
+    "reach": 70476,
+    "engagement": 31856
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 4,
+    "platform": "TikTok",
+    "date": "2024-09-08",
+    "impressions": 114835,
+    "reach": 244652,
+    "engagement": 43487
+  },
+  {
+    "customer_id": 82,
+    "campaign_id": 8,
+    "platform": "Facebook",
+    "date": "2024-06-29",
+    "impressions": 190264,
+    "reach": 332931,
+    "engagement": 17045
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 16,
+    "platform": "Instagram",
+    "date": "2024-10-31",
+    "impressions": 669702,
+    "reach": 151826,
+    "engagement": 48378
+  },
+  {
+    "customer_id": 5,
+    "campaign_id": 1,
+    "platform": "Twitter",
+    "date": "2024-07-08",
+    "impressions": 676660,
+    "reach": 240212,
+    "engagement": 47895
+  },
+  {
+    "customer_id": 46,
+    "campaign_id": 17,
+    "platform": "Twitter",
+    "date": "2024-12-27",
+    "impressions": 999052,
+    "reach": 73060,
+    "engagement": 4189
+  },
+  {
+    "customer_id": 50,
+    "campaign_id": 6,
+    "platform": "TikTok",
+    "date": "2024-07-21",
+    "impressions": 723650,
+    "reach": 403943,
+    "engagement": 11779
+  },
+  {
+    "customer_id": 71,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-02-24",
+    "impressions": 41550,
+    "reach": 429353,
+    "engagement": 3084
+  },
+  {
+    "customer_id": 24,
+    "campaign_id": 7,
+    "platform": "LinkedIn",
+    "date": "2024-09-05",
+    "impressions": 139812,
+    "reach": 59642,
+    "engagement": 20713
+  },
+  {
+    "customer_id": 25,
+    "campaign_id": 8,
+    "platform": "Twitter",
+    "date": "2024-07-24",
+    "impressions": 740442,
+    "reach": 121475,
+    "engagement": 15719
+  },
+  {
+    "customer_id": 23,
+    "campaign_id": 15,
+    "platform": "LinkedIn",
+    "date": "2024-05-05",
+    "impressions": 755551,
+    "reach": 302713,
+    "engagement": 38832
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 17,
+    "platform": "TikTok",
+    "date": "2024-09-02",
+    "impressions": 397760,
+    "reach": 118049,
+    "engagement": 39301
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 14,
+    "platform": "LinkedIn",
+    "date": "2025-01-10",
+    "impressions": 654848,
+    "reach": 13821,
+    "engagement": 41851
+  },
+  {
+    "customer_id": 96,
+    "campaign_id": 16,
+    "platform": "Instagram",
+    "date": "2024-01-27",
+    "impressions": 478982,
+    "reach": 104052,
+    "engagement": 11937
+  },
+  {
+    "customer_id": 49,
+    "campaign_id": 16,
+    "platform": "Instagram",
+    "date": "2024-05-26",
+    "impressions": 850610,
+    "reach": 243366,
+    "engagement": 39957
+  },
+  {
+    "customer_id": 33,
+    "campaign_id": 2,
+    "platform": "Twitter",
+    "date": "2024-12-18",
+    "impressions": 830276,
+    "reach": 222,
+    "engagement": 14368
+  },
+  {
+    "customer_id": 78,
+    "campaign_id": 5,
+    "platform": "Facebook",
+    "date": "2024-11-13",
+    "impressions": 980701,
+    "reach": 138205,
+    "engagement": 14663
+  },
+  {
+    "customer_id": 21,
+    "campaign_id": 17,
+    "platform": "Instagram",
+    "date": "2024-02-15",
+    "impressions": 876445,
+    "reach": 242477,
+    "engagement": 31061
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 8,
+    "platform": "LinkedIn",
+    "date": "2024-12-23",
+    "impressions": 127582,
+    "reach": 397945,
+    "engagement": 31069
+  },
+  {
+    "customer_id": 85,
+    "campaign_id": 4,
+    "platform": "Twitter",
+    "date": "2024-07-20",
+    "impressions": 512127,
+    "reach": 421184,
+    "engagement": 26439
+  },
+  {
+    "customer_id": 24,
+    "campaign_id": 17,
+    "platform": "Facebook",
+    "date": "2024-03-13",
+    "impressions": 320680,
+    "reach": 369726,
+    "engagement": 3097
+  },
+  {
+    "customer_id": 15,
+    "campaign_id": 15,
+    "platform": "Instagram",
+    "date": "2024-02-23",
+    "impressions": 329509,
+    "reach": 44141,
+    "engagement": 21835
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 10,
+    "platform": "Facebook",
+    "date": "2024-08-26",
+    "impressions": 738410,
+    "reach": 27060,
+    "engagement": 1785
+  },
+  {
+    "customer_id": 79,
+    "campaign_id": 18,
+    "platform": "Instagram",
+    "date": "2024-07-30",
+    "impressions": 298714,
+    "reach": 428155,
+    "engagement": 45362
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 9,
+    "platform": "Facebook",
+    "date": "2024-05-10",
+    "impressions": 569689,
+    "reach": 202366,
+    "engagement": 18287
+  },
+  {
+    "customer_id": 19,
+    "campaign_id": 16,
+    "platform": "Twitter",
+    "date": "2024-11-21",
+    "impressions": 965830,
+    "reach": 173983,
+    "engagement": 23062
+  },
+  {
+    "customer_id": 47,
+    "campaign_id": 8,
+    "platform": "Instagram",
+    "date": "2024-08-31",
+    "impressions": 542639,
+    "reach": 355297,
+    "engagement": 44217
+  },
+  {
+    "customer_id": 83,
+    "campaign_id": 17,
+    "platform": "Twitter",
+    "date": "2024-05-12",
+    "impressions": 478370,
+    "reach": 346522,
+    "engagement": 32739
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 18,
+    "platform": "Facebook",
+    "date": "2024-06-29",
+    "impressions": 365838,
+    "reach": 108836,
+    "engagement": 8636
+  },
+  {
+    "customer_id": 43,
+    "campaign_id": 12,
+    "platform": "Instagram",
+    "date": "2024-12-02",
+    "impressions": 396727,
+    "reach": 207222,
+    "engagement": 24431
+  },
+  {
+    "customer_id": 86,
+    "campaign_id": 15,
+    "platform": "TikTok",
+    "date": "2024-06-04",
+    "impressions": 254402,
+    "reach": 289349,
+    "engagement": 32473
+  },
+  {
+    "customer_id": 67,
+    "campaign_id": 7,
+    "platform": "LinkedIn",
+    "date": "2024-02-20",
+    "impressions": 228759,
+    "reach": 292681,
+    "engagement": 37405
+  },
+  {
+    "customer_id": 18,
+    "campaign_id": 7,
+    "platform": "TikTok",
+    "date": "2024-09-19",
+    "impressions": 937393,
+    "reach": 23355,
+    "engagement": 35582
+  },
+  {
+    "customer_id": 61,
+    "campaign_id": 18,
+    "platform": "LinkedIn",
+    "date": "2024-11-06",
+    "impressions": 265776,
+    "reach": 382441,
+    "engagement": 14999
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 2,
+    "platform": "Facebook",
+    "date": "2024-02-02",
+    "impressions": 679821,
+    "reach": 285619,
+    "engagement": 3452
+  },
+  {
+    "customer_id": 74,
+    "campaign_id": 17,
+    "platform": "Instagram",
+    "date": "2024-11-05",
+    "impressions": 129663,
+    "reach": 5275,
+    "engagement": 1922
+  },
+  {
+    "customer_id": 61,
+    "campaign_id": 18,
+    "platform": "TikTok",
+    "date": "2024-01-26",
+    "impressions": 88925,
+    "reach": 87495,
+    "engagement": 43843
+  },
+  {
+    "customer_id": 96,
+    "campaign_id": 4,
+    "platform": "Facebook",
+    "date": "2024-07-16",
+    "impressions": 993912,
+    "reach": 54534,
+    "engagement": 3231
+  },
+  {
+    "customer_id": 82,
+    "campaign_id": 1,
+    "platform": "Facebook",
+    "date": "2025-01-10",
+    "impressions": 135533,
+    "reach": 142194,
+    "engagement": 859
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 12,
+    "platform": "Twitter",
+    "date": "2024-09-10",
+    "impressions": 43095,
+    "reach": 361733,
+    "engagement": 9661
+  },
+  {
+    "customer_id": 35,
+    "campaign_id": 20,
+    "platform": "TikTok",
+    "date": "2024-06-11",
+    "impressions": 931392,
+    "reach": 88792,
+    "engagement": 27527
+  },
+  {
+    "customer_id": 45,
+    "campaign_id": 11,
+    "platform": "TikTok",
+    "date": "2024-11-05",
+    "impressions": 314489,
+    "reach": 450639,
+    "engagement": 30866
+  },
+  {
+    "customer_id": 52,
+    "campaign_id": 6,
+    "platform": "LinkedIn",
+    "date": "2024-06-18",
+    "impressions": 271800,
+    "reach": 392982,
+    "engagement": 46995
+  },
+  {
+    "customer_id": 41,
+    "campaign_id": 9,
+    "platform": "TikTok",
+    "date": "2024-03-06",
+    "impressions": 87310,
+    "reach": 63321,
+    "engagement": 42652
+  },
+  {
+    "customer_id": 69,
+    "campaign_id": 4,
+    "platform": "Facebook",
+    "date": "2024-09-27",
+    "impressions": 387827,
+    "reach": 46359,
+    "engagement": 34347
+  },
+  {
+    "customer_id": 21,
+    "campaign_id": 10,
+    "platform": "LinkedIn",
+    "date": "2024-06-19",
+    "impressions": 188467,
+    "reach": 271242,
+    "engagement": 17898
+  },
+  {
+    "customer_id": 12,
+    "campaign_id": 19,
+    "platform": "Facebook",
+    "date": "2024-05-08",
+    "impressions": 720243,
+    "reach": 277948,
+    "engagement": 24355
+  },
+  {
+    "customer_id": 83,
+    "campaign_id": 19,
+    "platform": "Twitter",
+    "date": "2024-01-27",
+    "impressions": 376986,
+    "reach": 128222,
+    "engagement": 48774
+  },
+  {
+    "customer_id": 27,
+    "campaign_id": 5,
+    "platform": "TikTok",
+    "date": "2024-03-11",
+    "impressions": 935298,
+    "reach": 469238,
+    "engagement": 46042
+  },
+  {
+    "customer_id": 26,
+    "campaign_id": 18,
+    "platform": "Twitter",
+    "date": "2024-05-31",
+    "impressions": 961324,
+    "reach": 414978,
+    "engagement": 46826
+  },
+  {
+    "customer_id": 42,
+    "campaign_id": 7,
+    "platform": "Twitter",
+    "date": "2024-11-13",
+    "impressions": 834320,
+    "reach": 420441,
+    "engagement": 24663
+  },
+  {
+    "customer_id": 28,
+    "campaign_id": 11,
+    "platform": "TikTok",
+    "date": "2024-11-05",
+    "impressions": 496184,
+    "reach": 359482,
+    "engagement": 2274
+  },
+  {
+    "customer_id": 72,
+    "campaign_id": 3,
+    "platform": "TikTok",
+    "date": "2024-04-11",
+    "impressions": 311472,
+    "reach": 218948,
+    "engagement": 33008
+  },
+  {
+    "customer_id": 10,
+    "campaign_id": 5,
+    "platform": "LinkedIn",
+    "date": "2024-08-06",
+    "impressions": 984334,
+    "reach": 437086,
+    "engagement": 12913
+  },
+  {
+    "customer_id": 64,
+    "campaign_id": 14,
+    "platform": "Twitter",
+    "date": "2024-06-28",
+    "impressions": 62379,
+    "reach": 497426,
+    "engagement": 45936
+  },
+  {
+    "customer_id": 99,
+    "campaign_id": 7,
+    "platform": "Twitter",
+    "date": "2024-06-02",
+    "impressions": 268771,
+    "reach": 338834,
+    "engagement": 36054
+  },
+  {
+    "customer_id": 6,
+    "campaign_id": 20,
+    "platform": "Facebook",
+    "date": "2024-01-26",
+    "impressions": 295732,
+    "reach": 452574,
+    "engagement": 45840
+  },
+  {
+    "customer_id": 70,
+    "campaign_id": 8,
+    "platform": "Facebook",
+    "date": "2024-02-10",
+    "impressions": 687689,
+    "reach": 161879,
+    "engagement": 23284
+  },
+  {
+    "customer_id": 61,
+    "campaign_id": 15,
+    "platform": "LinkedIn",
+    "date": "2024-11-23",
+    "impressions": 821820,
+    "reach": 146734,
+    "engagement": 5926
+  },
+  {
+    "customer_id": 62,
+    "campaign_id": 15,
+    "platform": "Facebook",
+    "date": "2024-06-02",
+    "impressions": 681392,
+    "reach": 455327,
+    "engagement": 34287
+  },
+  {
+    "customer_id": 83,
+    "campaign_id": 6,
+    "platform": "Instagram",
+    "date": "2024-11-18",
+    "impressions": 140282,
+    "reach": 115420,
+    "engagement": 20161
+  },
+  {
+    "customer_id": 39,
+    "campaign_id": 4,
+    "platform": "Twitter",
+    "date": "2024-12-24",
+    "impressions": 186181,
+    "reach": 375685,
+    "engagement": 11635
+  },
+  {
+    "customer_id": 40,
+    "campaign_id": 14,
+    "platform": "Instagram",
+    "date": "2024-02-18",
+    "impressions": 241001,
+    "reach": 462786,
+    "engagement": 11299
+  }
+]

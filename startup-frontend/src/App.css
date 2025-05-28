@@ -1,0 +1,18 @@
+:global .CodeMirror {
+  /* Set height, width, borders, and global font properties here */
+  font-family: monospace;
+  height: 200px;
+  color: black;
+  direction: ltr;
+  overflow: auto;
+}
+
+.CodeMirror {
+  /* Set height, width, borders, and global font properties here */
+  font-family: monospace;
+  height: 600px;
+  width: 100%;
+  color: black;
+  direction: ltr;
+  overflow: auto;
+}

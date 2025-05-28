@@ -1,0 +1,33 @@
+table_data = {
+        "header": [
+            "website_analytics_id",
+            "customer_id",
+            "session_id",
+            "date",
+            "page_views",
+            "session_duration",
+            "bounce_rate",
+            "traffic_source"
+        ],
+        "entries": [
+            [1, 101, "session-123", "2023-10-26", 5, 180, 0.2, "Organic Search"],
+            [2, 105, "session-456", "2023-10-27", 2, 60, 0.8, "Social Media"],
+            [3, 102, "session-789", "2023-10-28", 7, 240, 0.1, "Referral"],
+            [4, 107, "session-101", "2023-10-29", 1, 30, 1.0, "Direct"] 
+        ]
+    }
+
+graph_data = {
+        "graphType": "areachart",
+        "data": [
+            { "date": "2023-01", "netflix": 4000, "instagram": 2400, "tiktok": 2400 },
+            { "date": "2023-02", "netflix": 3000, "instagram": 1398, "tiktok": 2210 },
+            { "date": "2023-03", "netflix": 2000, "instagram": 9800, "tiktok": 2290 },
+        ]
+    }
+
+graph_data = {"graphType": "radarchart", "data":[
+        { "subject": "Math", "student1": 120, "student2": 110 },
+        { "subject": "English", "student1": 98, "student2": 130 },
+        { "subject": "Physics", "student1": 86, "student2": 130 },
+    ]}

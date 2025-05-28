@@ -1,0 +1,162 @@
+[
+  {
+    "campaign_name": "Jarvis, Holt and Young Fall Campaign",
+    "start_date": "2023-05-17",
+    "end_date": "2023-10-16",
+    "budget": "57860.99",
+    "target_audience": "Senior Citizens",
+    "channels": "Display Ads"
+  },
+  {
+    "campaign_name": "Jackson-Garcia Winter Campaign",
+    "start_date": "2023-04-05",
+    "end_date": "2023-06-24",
+    "budget": "74610.25",
+    "target_audience": "Students",
+    "channels": "Content Marketing"
+  },
+  {
+    "campaign_name": "Silva, Davis and Hanna Winter Campaign",
+    "start_date": "2024-03-29",
+    "end_date": "2024-08-16",
+    "budget": "7566.50",
+    "target_audience": "Tech Enthusiasts",
+    "channels": "Social Media"
+  },
+  {
+    "campaign_name": "Shaw, Patterson and Lambert Spring Campaign",
+    "start_date": "2024-09-17",
+    "end_date": "2024-10-28",
+    "budget": "32377.88",
+    "target_audience": "Students",
+    "channels": "Social Media"
+  },
+  {
+    "campaign_name": "Freeman PLC Fall Campaign",
+    "start_date": "2024-02-28",
+    "end_date": "2024-07-01",
+    "budget": "53604.75",
+    "target_audience": "Tech Enthusiasts",
+    "channels": "Social Media"
+  },
+  {
+    "campaign_name": "Mullins Inc Summer Campaign",
+    "start_date": "2023-09-06",
+    "end_date": "2024-02-16",
+    "budget": "81358.66",
+    "target_audience": "Tech Enthusiasts",
+    "channels": "Content Marketing"
+  },
+  {
+    "campaign_name": "Weaver-Clark Spring Campaign",
+    "start_date": "2024-03-09",
+    "end_date": "2024-07-20",
+    "budget": "97255.75",
+    "target_audience": "Young Professionals",
+    "channels": "Display Ads"
+  },
+  {
+    "campaign_name": "Wong-Fisher Fall Campaign",
+    "start_date": "2024-05-03",
+    "end_date": "2024-10-29",
+    "budget": "37698.17",
+    "target_audience": "Young Professionals",
+    "channels": "Display Ads"
+  },
+  {
+    "campaign_name": "Price PLC Summer Campaign",
+    "start_date": "2024-02-21",
+    "end_date": "2024-03-28",
+    "budget": "9543.89",
+    "target_audience": "Parents",
+    "channels": "Content Marketing"
+  },
+  {
+    "campaign_name": "Nolan PLC Winter Campaign",
+    "start_date": "2023-12-21",
+    "end_date": "2024-03-07",
+    "budget": "28503.17",
+    "target_audience": "Parents",
+    "channels": "Display Ads"
+  },
+  {
+    "campaign_name": "Stewart Inc Winter Campaign",
+    "start_date": "2023-11-28",
+    "end_date": "2024-01-24",
+    "budget": "22039.36",
+    "target_audience": "Parents",
+    "channels": "Content Marketing"
+  },
+  {
+    "campaign_name": "Martin-Tran Fall Campaign",
+    "start_date": "2024-05-09",
+    "end_date": "2024-09-24",
+    "budget": "14168.71",
+    "target_audience": "Parents",
+    "channels": "Email"
+  },
+  {
+    "campaign_name": "Taylor Inc Spring Campaign",
+    "start_date": "2024-08-15",
+    "end_date": "2024-09-26",
+    "budget": "64946.65",
+    "target_audience": "Small Business Owners",
+    "channels": "Display Ads"
+  },
+  {
+    "campaign_name": "Burke-Wright Spring Campaign",
+    "start_date": "2024-11-25",
+    "end_date": "2025-04-28",
+    "budget": "34514.81",
+    "target_audience": "Small Business Owners",
+    "channels": "Display Ads"
+  },
+  {
+    "campaign_name": "Smith, Wright and Sullivan Summer Campaign",
+    "start_date": "2024-03-30",
+    "end_date": "2024-08-06",
+    "budget": "73733.71",
+    "target_audience": "Small Business Owners",
+    "channels": "Display Ads"
+  },
+  {
+    "campaign_name": "Allen, Garcia and Cooke Fall Campaign",
+    "start_date": "2024-07-21",
+    "end_date": "2024-12-09",
+    "budget": "84392.14",
+    "target_audience": "Senior Citizens",
+    "channels": "Email"
+  },
+  {
+    "campaign_name": "Smith, Simmons and Bass Winter Campaign",
+    "start_date": "2024-05-08",
+    "end_date": "2024-07-07",
+    "budget": "20370.79",
+    "target_audience": "Parents",
+    "channels": "Social Media"
+  },
+  {
+    "campaign_name": "Reed Group Fall Campaign",
+    "start_date": "2024-02-01",
+    "end_date": "2024-07-15",
+    "budget": "20898.94",
+    "target_audience": "Tech Enthusiasts",
+    "channels": "Email"
+  },
+  {
+    "campaign_name": "Raymond, Wolf and Bailey Spring Campaign",
+    "start_date": "2023-03-31",
+    "end_date": "2023-07-29",
+    "budget": "14149.81",
+    "target_audience": "Parents",
+    "channels": "Social Media"
+  },
+  {
+    "campaign_name": "Gilbert-Ellis Fall Campaign",
+    "start_date": "2023-10-29",
+    "end_date": "2023-12-10",
+    "budget": "46632.75",
+    "target_audience": "Senior Citizens",
+    "channels": "Content Marketing"
+  }
+]

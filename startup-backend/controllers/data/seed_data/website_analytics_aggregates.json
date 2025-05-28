@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Direct",
+    "page_views": 4674,
+    "bounce_rate": 51.45,
+    "session_duration": 1734.38
+  },
+  {
+    "category": "Social Media",
+    "page_views": 3773,
+    "bounce_rate": 49.64,
+    "session_duration": 1774.56
+  },
+  {
+    "category": "Referral",
+    "page_views": 4278,
+    "bounce_rate": 47.55,
+    "session_duration": 1770.78
+  },
+  {
+    "category": "Organic Search",
+    "page_views": 4456,
+    "bounce_rate": 53.36,
+    "session_duration": 1778.92
+  },
+  {
+    "category": "Paid Search",
+    "page_views": 4072,
+    "bounce_rate": 53.22,
+    "session_duration": 1612.68
+  },
+  {
+    "category": "Email",
+    "page_views": 4431,
+    "bounce_rate": 47.5,
+    "session_duration": 1812.99
+  }
+]
